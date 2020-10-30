@@ -4,7 +4,13 @@ title: "Invited Talks"
 permalink: /talks/
 author_profile: true
 ---
-<b> Advancing Research on Cognition in Software Engineering <\b>
-<\b> April 2020, University of Zurich, Switzerland
 
-  
+{% if site.talkmap_link == true %}
+
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+
+{% endif %}
+
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
