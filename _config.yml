@@ -83,7 +83,7 @@ author:
   name             : "H. G&uuml;l &Ccedil;alikli"
   avatar           : "profile.png"
   bio              : "Senior Researcher in the ZEST Research Group at the UZH Department of Informatics"
-  location         : "Zurich"
+  location         : 
   employer         : "University of Zurich"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=gul.calikli@gmail.com"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@GulCalikli"
   vine             :
   weibo            :
   xing             :
