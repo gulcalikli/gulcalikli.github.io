@@ -83,11 +83,11 @@ author:
   name             : "H. G&uuml;l &Ccedil;alikli"
   avatar           : "profile.png"
   bio              : "Senior Researcher in the ZEST Research Group at the UZH Department of Informatics"
-  location         : "University of Zurich"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  location         : "Zurich"
+  employer         : "University of Zurich"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=lShgfvwAAAAJ"
+  email            : "calikli@ifi.uzh.ch 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
