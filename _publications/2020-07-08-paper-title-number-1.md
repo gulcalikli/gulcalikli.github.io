@@ -6,7 +6,7 @@ excerpt: 'In this paper, we explore the robustness of current code review settin
 date: 2020-07-08
 venue: 'The Proceedings of the 42nd International Conference on Software Engineering (ICSE)'
 paperurl: ''
-citation: 'Davide Spadini, G&uuml;l &Ccedil;alikli, Alberto Bacchelli. (2020). &quot;Primers or Remiders? The Effects of Existing Code Review Comments on Code Review.&quot; <i>The 42nd International Conference on Software Engineering (ICSE)</i>. 1171-1182.'
+citation: 'Davide Spadini, G&uuml;l &Ccedil;alikli, Alberto Bacchelli. (2020). &quot;Primers or Reminders? The Effects of Existing Code Review Comments on Code Review.&quot; <i>The 42nd International Conference on Software Engineering (ICSE)</i>. 1171-1182.'
 ---
 One main novelty of this paper is the usage of a psychological setup that measures developers’ proneness to availability bias and triangulates them with developers’ subjective experience during code review.
 
