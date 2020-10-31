@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-08-26-paper-title-number-2
 excerpt: 'This paper explains the online controlled experiment that is designed and conducted to investigate the effects of explicit feature traceability (e.g., annotations and decompositions) on program comprehension of developers.'
 date: 2019-08-26
-venue: 'The Proceedings of the 27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)'
+venue: 'Proceedings of the 27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)'
 paperurl: ''
 citation: 'Jacob Kr&uuml;ger, G&uuml;l &Ccedil;alikli, Thorsten Berger, Thomas Leich, Gunter Saake. (2019). &quot;Effects of Explicit Feature Traceability on Program Comprehension.&quot; <i>Proceedings of the 27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)</i>. 338-349.'
 ---
@@ -17,4 +17,4 @@ annotations, provides developers immediate benefits during software development 
 
 [Download paper here](http://gulcalikli.github.io/files/main.pdf)
 
-Recommended citation: Jacob Kr&uuml;ger, G&uuml;l &Ccedil;alikli, Thorsten Berger, Thomas Leich, Gunter Saake. (2019). &quot;Effects of Explicit Feature Traceability on Program Comprehension.&quot; <i>the 27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)</i>. 338-349.
+Recommended citation: Jacob Kr&uuml;ger, G&uuml;l &Ccedil;alikli, Thorsten Berger, Thomas Leich, Gunter Saake. (2019). &quot;Effects of Explicit Feature Traceability on Program Comprehension.&quot; <i>Proceedings of The 27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)</i>. 338-349.
