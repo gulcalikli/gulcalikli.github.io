@@ -2,7 +2,7 @@
 title: "Primers or Reminders? The Effects of Existing Review Comments on Code Review"
 collection: publications
 permalink: /publication/2020-07-08-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'In this paper we investigate whether existing review comments about a specific bug prime developers, so that they look for only that bug type, while overlooking other types of bugs.'
 date: 2020-07-08
 venue: 'The 42nd International Conference on Software Engineering (ICSE)'
 paperurl: ''
