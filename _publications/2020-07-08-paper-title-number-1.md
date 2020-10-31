@@ -15,4 +15,4 @@ In contemporary code review, the comments put by reviewers on a specific code ch
 
 [Download paper here](http://academicpages.github.io/files/priming.pdf)
 
-Recommended citation: Davide Spadini, <b> G&uuml;l &Ccedil;alikli</b>, Alberto Bacchelli. (2020). "Primers or Remiders? The Effects of Existing Code Review Comments on Code Review." <i>The 42nd International Conference on Software Engineering (ICSE)</i>. 1171-1182.
+Recommended citation: Davide Spadini, <b> G&uuml;l &Ccedil;alikli</b>, Alberto Bacchelli. (2020). "Primers or Reminders? The Effects of Existing Code Review Comments on Code Review." <i>The 42nd International Conference on Software Engineering (ICSE)</i>. 1171-1182.
