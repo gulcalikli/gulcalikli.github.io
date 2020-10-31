@@ -12,4 +12,4 @@ To the best of the authors' knowledge, this is the first paper in the literature
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Davide Spadini, <b> G&uuml;l &Ccedil;alikli<\b>, Alberto Bacchelli. (2020). "Primers or Remiders? The Effects of Existing Code Review Comments on Code Review." <i>The 42nd International Conference on Software Engineering (ICSE)</i>. 1171-1182.
+Recommended citation: Davide Spadini, <b> G&uuml;l &Ccedil;alikli</b>, Alberto Bacchelli. (2020). "Primers or Remiders? The Effects of Existing Code Review Comments on Code Review." <i>The 42nd International Conference on Software Engineering (ICSE)</i>. 1171-1182.
