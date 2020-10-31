@@ -15,6 +15,6 @@ Privacy violations in online social networks (OSNs) often arise as a result of u
 
 [Link to the paper](http://oro.open.ac.uk/45951/1/PrivacyDynamics_SEAMS2016.pdf)
 
-[Download Presentation Slides](https://gulcalikli.github.io/files/seams16Presentation.pdf)
+[Download Presentation Slides](https://gulcalikli.github.io/files/seams16.pdf)
 
 Recommended citation: G&uuml;l &Ccedil;alikli, Mark Law, Arosha Bandara, Alessandra Russo, Luke Dickens, Blaine Price, Avalie Stuart, Mark Levine, Bashar Nuseibeh. (2017). &quot;Logging you, Logging me: A Replicable Study of Privacy and Sharing Behaviour in Groups of Visual Lifeloggers.&quot; <i>Proceedings of The 11th International Symposium on Software Engineering for Adaptive and Self-Managing Systems</i>. 1(2): 22:1-22:18.
