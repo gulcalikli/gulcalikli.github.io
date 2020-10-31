@@ -14,4 +14,4 @@ Low cost digital cameras in smartphones and wearable devices make it easy for pe
 
 [Link to the paper](http://oro.open.ac.uk/49401/7/a22-price.pdf)
 
-Recommended citation: Blaine A. Price, Avelie Stuart, G&uuml;l &Ccedil;alikli, Ciaran McCormick, Vikram Mehta, Luke Hutton, Arosha Bandara, Mark Levine, Bashar Nuseibeh. (2017). &quot;Logging you, Logging me: A Replicable Study of Privacy and Sharing Behaviour in Groups of Visual Lifeloggers.&quot; <i>tProceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)</i>. 1(2): 22:1-22:18.
+Recommended citation: Blaine A. Price, Avelie Stuart, G&uuml;l &Ccedil;alikli, Ciaran McCormick, Vikram Mehta, Luke Hutton, Arosha Bandara, Mark Levine, Bashar Nuseibeh. (2017). &quot;Logging you, Logging me: A Replicable Study of Privacy and Sharing Behaviour in Groups of Visual Lifeloggers.&quot; <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)</i>. 1(2): 22:1-22:18.
