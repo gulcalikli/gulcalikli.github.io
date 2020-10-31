@@ -14,4 +14,4 @@ ABSTRACT: Confirmation bias is defined as the tendency of people to seek evidenc
 [Download the paper](https://gulcalikli.github.io/files/SQJ2015.pdf)
 
 
-Recommended citation: G&uuml;l &Ccedil;alikli, Ay&scedil;e Bener. (2015). &quot;Empirical Analysis of Factors Affecting Confirmation Bias Levels of Software Engineers. &quot; <i>Software Quality Journal</i>. 23(4): 695-722 (2015).
+Recommended citation: G&uuml;l &Ccedil;alikli, Ayse Bener. (2015). &quot;Empirical Analysis of Factors Affecting Confirmation Bias Levels of Software Engineers. &quot; <i>Software Quality Journal</i>. 23(4): 695-722 (2015).
