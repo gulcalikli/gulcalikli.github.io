@@ -6,7 +6,7 @@ excerpt: 'In this paper, In this research, we propose a metric suite that measur
 date: 2013-07-01
 venue: 'Proceedings of The 7th International Symposium on Empirical Software Engineering and Measurement (ESEM)'
 paperurl: ''
-citation: 'G&uuml;l &Ccedil;alikli, Ay&scedil;e Bener, Turgay Ayta&#x00E7;, &Ouml;v&uuml;n&#x00E7 Bozcan (2013). &quot;Towards a Metric Suite Proposal to Quantify Confirmation Biases of Developers. &quot; <i>Proceedings of The 7th International Symposium on Empirical Software Engineering and Measurement (ESEM)</i>. 363-372 (2013).'
+citation: 'G&uuml;l &Ccedil;alikli, Ay&scedil;e Bener, Turgay Ayta&#x00E7;, &Ouml;v&uuml;n&#x00E7; Bozcan (2013). &quot;Towards a Metric Suite Proposal to Quantify Confirmation Biases of Developers. &quot; <i>Proceedings of The 7th International Symposium on Empirical Software Engineering and Measurement (ESEM)</i>. 363-372 (2013).'
 ---
 
 ABSTRACT: The goal of software metrics is the identification and measurement of the essential parameters that affect software development. Metrics can be used to improve software quality and productivity. Existing metrics in the literature are mostly product or process related. However, thought processes of people have a
