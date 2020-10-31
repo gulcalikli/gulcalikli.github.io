@@ -2,7 +2,7 @@
 title: "Influence of Confirmation Biases of Developers on Software Quality: an Empirical Study"
 collection: publications
 permalink: /publication/2013-05-01-paper-title-number-6
-excerpt: 'This paper aims to invetigate in the wild the factors affecting confirmation bias levels of software engineers.'
+excerpt: 'In this paper, we provide a metric scheme to measure confirmatory behaviour of software developers (i.e., confirmation bias) during their daily practices (e.g., unit testing). In order to assess the effectiveness of the metrics scheme, we perform an empirical study to predict defective parts of software.'
 date: 2013-05-01
 venue: 'Software Quality Journal'
 paperurl: ''
@@ -16,3 +16,10 @@ ABSTRACT: Confirmation bias is defined as the tendency of people to seek evidenc
 
 Recommended citation: G&uuml;l &Ccedil;alikli, Ayse Bener. (2015). &quot;Empirical Analysis of Factors Affecting Confirmation Bias Levels of Software Engineers. &quot; <i>Software Quality Journal</i>. 23(4): 695-722 (2015).
 
+
+In order to estimate effectiveness of our
+metric scheme in quantification of confirmation bias within the context of software
+development, we perform an empirical study which addresses prediction of defective
+parts of software. In our empirical study, we applied confirmation bias metrics to
+five datasets obtained from two industrial partners which are from Telecomunications
+and Enterprize Resource Planning (ERP) domains respectively.
