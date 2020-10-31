@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/2020-07-08-paper-title-number-1
 excerpt: 'In this paper, we explore the robustness of current code review settings in the presence of the availability bias of developers.'
 date: 2020-07-08
-venue: 'The Proceedings of the 42nd International Conference on Software Engineering (ICSE)'
+venue: 'Proceedings of the 42nd International Conference on Software Engineering (ICSE)'
 paperurl: ''
-citation: 'Davide Spadini, G&uuml;l &Ccedil;alikli, Alberto Bacchelli. (2020). &quot;Primers or Reminders? The Effects of Existing Code Review Comments on Code Review.&quot; <i>The 42nd International Conference on Software Engineering (ICSE)</i>. 1171-1182.'
+citation: 'Davide Spadini, G&uuml;l &Ccedil;alikli, Alberto Bacchelli. (2020). &quot;Primers or Reminders? The Effects of Existing Code Review Comments on Code Review.&quot; <i>Proceedings of the 42nd International Conference on Software Engineering (ICSE)</i>. 1171-1182.'
 ---
 One main novelty of this paper is the usage of a psychological setup that measures developers’ proneness to availability bias and triangulates them with developers’ subjective experience during code review.
 
@@ -19,4 +19,4 @@ In contemporary code review, the comments put by reviewers on a specific code ch
 
 [Watch Presentation Video](https://www.youtube.com/watch?v=5HGAZz7N9Uk)
 
-Recommended citation: Davide Spadini, G&uuml;l &Ccedil;alikli, Alberto Bacchelli. (2020). "Primers or Reminders? The Effects of Existing Code Review Comments on Code Review." <i>The 42nd International Conference on Software Engineering (ICSE)</i>. 1171-1182.
+Recommended citation: Davide Spadini, G&uuml;l &Ccedil;alikli, Alberto Bacchelli. (2020). "Primers or Reminders? The Effects of Existing Code Review Comments on Code Review." <i>Proceedings of The 42nd International Conference on Software Engineering (ICSE)</i>. 1171-1182.
