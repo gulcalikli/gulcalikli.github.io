@@ -1,11 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "Primers or Reminders? The Effects of Existing Review Comments on Code Review"
 collection: publications
 permalink: /publication/2020-07-08-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-07-08
 venue: 'The 42nd International Conference on Software Engineering (ICSE)'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: ''
 citation: ''
 ---
 To the best of the authors' knowledge, this is the first paper in the literature that investigates effects of availability bias on code review performance. Another novelty of this paper is the usage of a psychological setup that measures developers’ proneness to availability bias and triangulates them with developers’ subjective experience during code review.
