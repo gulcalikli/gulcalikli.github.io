@@ -16,5 +16,5 @@ development process.
 [Download the paper](https://gulcalikli.github.io/files/ESEM2013.pdf)
 
 
-Recommended citation: G&uuml;l &Ccedil;alikli, Ay&#x015F;e Bener, Turgay Ayta&ccedil, &Ouml;v&uuml;n&ccedil Bozcan (2013). &quot;Towards a Metric Suite Proposal to Quantify Confirmation Biases of Developers. &quot; <i>Proceedings of The 7th International Symposium on Empirical Software Engineering and Measurement (ESEM)</i>. 363-372 (2013).
+Recommended citation: G&uuml;l &Ccedil;alikli, Ay&#x015F;e Bener, Turgay Ayta&#x00E7;, &Ouml;v&uuml;n	&#x00E7; Bozcan (2013). &quot;Towards a Metric Suite Proposal to Quantify Confirmation Biases of Developers. &quot; <i>Proceedings of The 7th International Symposium on Empirical Software Engineering and Measurement (ESEM)</i>. 363-372 (2013).
 
