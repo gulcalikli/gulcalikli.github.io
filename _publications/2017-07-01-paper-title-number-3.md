@@ -6,7 +6,7 @@ excerpt: 'In this paper, we conducted a study in the wild with students on a UK 
 date: 2017-07-01
 venue: 'Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)'
 paperurl: ''
-citation: 'Blaine A. Price, Avelie Stuart, G&uuml;l &Ccedil;alikli, Ciaran McCormick, Vikram Mehta, Luke Hutton, Arosha Bandara, Mark Levine, Bashar Nuseibeh. (2017). &quot;Logging you, Logging me: A Replicable Study of Privacy and Sharing Behaviour in Groups of Visual Lifeloggers.&quot; <i>tProceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)</i>. 1(2): 22:1-22:18.'
+citation: 'Blaine A. Price, Avelie Stuart, G&uuml;l &Ccedil;alikli, Ciaran McCormick, Vikram Mehta, Luke Hutton, Arosha Bandara, Mark Levine, Bashar Nuseibeh. (2017). &quot;Logging you, Logging me: A Replicable Study of Privacy and Sharing Behaviour in Groups of Visual Lifeloggers.&quot; <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)</i>. 1(2): 22:1-22:18.'
 ---
 
 ABSTRACT:
