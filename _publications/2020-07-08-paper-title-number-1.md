@@ -17,4 +17,6 @@ In contemporary code review, the comments put by reviewers on a specific code ch
 
 [Access Data and Materials from here](https://doi.org/10.5281/zenodo.3653856)
 
+[Watch Presentation Video](https://www.youtube.com/watch?v=5HGAZz7N9Uk)
+
 Recommended citation: Davide Spadini, G&uuml;l &Ccedil;alikli, Alberto Bacchelli. (2020). "Primers or Reminders? The Effects of Existing Code Review Comments on Code Review." <i>The 42nd International Conference on Software Engineering (ICSE)</i>. 1171-1182.
