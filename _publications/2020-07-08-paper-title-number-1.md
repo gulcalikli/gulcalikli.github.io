@@ -6,7 +6,6 @@ excerpt: ''
 date: 2020-07-08
 venue: 'The 42nd International Conference on Software Engineering (ICSE)'
 paperurl: ''
-citation: ''
 ---
 To the best of the authors' knowledge, this is the first paper in the literature that investigates effects of availability bias on code review performance. Another novelty of this paper is the usage of a psychological setup that measures developers’ proneness to availability bias and triangulates them with developers’ subjective experience during code review. 
 
