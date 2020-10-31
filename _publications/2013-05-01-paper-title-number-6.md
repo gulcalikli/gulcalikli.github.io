@@ -9,17 +9,12 @@ paperurl: ''
 citation: 'G&uuml;l &Ccedil;alikli, Ay&scedil;e Bener. (2013). &quot;Influence of Confirmation Biases of Developers on Software Quality: an Empirical Study. &quot; <i>Software Quality Journal</i>. 21(2): 377-416 (2013).'
 ---
 
-ABSTRACT: Confirmation bias is defined as the tendency of people to seek evidence that verifies a hypothesis rather than seeking evidence to falsify it. Due to the confirmation bias, defects may be introduced in a software product during requirements analysis, design, implementation and/or testing phases. For instance, testers may exhibit confirmatory behaviour in the form of a tendency to make the code run rather than employing a strategic approach to make it fail. As a result, most of the defects that have been introduced in the earlier phases of software development may be overlooked leading to an increase in software defect density. In this paper, we quantify confirmation bias levels in terms of a single derived metric. However, the main focus of this paper is the analysis of factors affecting confirmation bias levels of software engineers. Identification of these factors can guide project managers to circumvent negative effects of confirmation bias; as well as providing guidance for the recruitment and effective allocation of software engineers. In this empirical study, we observed low confirmation bias levels among participants with logical reasoning and hypothesis testing skills.
+ABSTRACT: People’s thought processes have a significant impact on software quality, as software is designed, developed and tested by people. Cognitive biases, which are defined as deviations of human mind from the laws of logic and mathematics, are likely to cause software defects. However, there is little empirical evidence to date to substantiate this assertion. In this research, we focus on a specific cognitive bias type called confirmation bias. Confirmation bias is believed to be one of the factors that lead to increased software defect density. Due to confirmation bias, developers might perform unit tests to make their program work. This results in the propagation of more defects to testing phase and hence probably an increase in software defect density. In this research, we present a metric scheme to explore the impact of developers’ confirmation bias on software defect density. In order to estimate effectiveness of our metric scheme in quantification of confirmation bias within the context of software development, we perform an empirical study which addresses prediction of defective parts of software. In our empirical study, we applied confirmation bias metrics to five datasets obtained from two industrial partners which are from Telecomunications and Enterprize Resource Planning (ERP) domains respectively. Our results provide empirical evidence that people’s thought processes and cognitive aspects deserve further
+investigation to find out empirical evidence about their effectiveness in software defect prediction as well as their relation to software quality.
 
-[Download the paper](https://gulcalikli.github.io/files/SQJ2015.pdf)
-
-
-Recommended citation: G&uuml;l &Ccedil;alikli, Ayse Bener. (2015). &quot;Empirical Analysis of Factors Affecting Confirmation Bias Levels of Software Engineers. &quot; <i>Software Quality Journal</i>. 23(4): 695-722 (2015).
+[Download the paper](https://gulcalikli.github.io/files/SQJ2013.pdf)
 
 
-In order to estimate effectiveness of our
-metric scheme in quantification of confirmation bias within the context of software
-development, we perform an empirical study which addresses prediction of defective
-parts of software. In our empirical study, we applied confirmation bias metrics to
-five datasets obtained from two industrial partners which are from Telecomunications
-and Enterprize Resource Planning (ERP) domains respectively.
+Recommended citation: G&uuml;l &Ccedil;alikli, Ay&scedil;e Bener. (2013). &quot;Influence of Confirmation Biases of Developers on Software Quality: an Empirical Study. &quot; <i>Software Quality Journal</i>. 21(2): 377-416 (2013).
+
+
