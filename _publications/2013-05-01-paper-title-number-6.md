@@ -15,6 +15,6 @@ investigation to find out empirical evidence about their effectiveness in softwa
 [Download the paper](https://gulcalikli.github.io/files/SQJ2013.pdf)
 
 
-Recommended citation: G&uuml;l &Ccedil;alikli, Ay	&#x015F;e Bener. (2013). &quot;Influence of Confirmation Biases of Developers on Software Quality: an Empirical Study. &quot; <i>Software Quality Journal</i>. 21(2): 377-416 (2013).
+Recommended citation: G&uuml;l &Ccedil;alikli, Ay&#x015F;e Bener. (2013). &quot;Influence of Confirmation Biases of Developers on Software Quality: an Empirical Study. &quot; <i>Software Quality Journal</i>. 21(2): 377-416 (2013).
 
 
