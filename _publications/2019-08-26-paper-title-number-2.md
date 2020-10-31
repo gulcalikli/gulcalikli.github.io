@@ -6,7 +6,7 @@ excerpt: 'This paper explains the online controlled experiment that is designed 
 date: 2019-08-26
 venue: 'The Proceedings of the 27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)'
 paperurl: ''
-citation: 'Jacob Kr&uuml;ger, G&uuml;l &Ccedil;alikli, Thorsten Berger, Thomas Leich, Gunter Saake. (2019). &quot;Effects of Explicit Feature Traceability on Program Comprehension.&quot; <i>the 27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)</i>. 338-349.'
+citation: 'Jacob Kr&uuml;ger, G&uuml;l &Ccedil;alikli, Thorsten Berger, Thomas Leich, Gunter Saake. (2019). &quot;Effects of Explicit Feature Traceability on Program Comprehension.&quot; <i>Proceedings of the 27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)</i>. 338-349.'
 ---
 One main novelty of this paper is the experimental design where the program comprehension tasks are prepared to require deeper thought processes, which take place in developers’ working memory.
 
