@@ -2,7 +2,7 @@
 title: "Primers or reminders? The effects of existing review comments on code review"
 collection: publications
 permalink: /publication/2020-07-08-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2020-07-08
 venue: 'The 42nd International Conference on Software Engineering (ICSE)'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
