@@ -8,7 +8,8 @@ venue: 'The 42nd International Conference on Software Engineering (ICSE)'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+To the best of the authors' knowledge, this is the first paper in the literature that investigates effects of availability bias on code review performance. Main novelty of this paper is the usage of a psychological setup that measures developers’ proneness to availability bias and triangulates them with developers’ subjective experience during code review. 
+
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
