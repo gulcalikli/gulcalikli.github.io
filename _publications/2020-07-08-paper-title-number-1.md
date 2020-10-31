@@ -1,5 +1,5 @@
 ---
-title: "Primers or reminders?: the effects of existing review comments on code review"
+title: "Primers or reminders?: The effects of existing review comments on code review"
 collection: publications
 permalink: /publication/2020-07-08-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
