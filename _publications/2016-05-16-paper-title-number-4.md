@@ -3,7 +3,7 @@ title: "Privacy Dynamics: Learning Privacy Norms for Social Software"
 collection: publications
 permalink: /publication/2016-05-16-paper-title-number-4
 excerpt: 'In this paper, inpsired by social identity theory in socal psychology, we present privacy-aware social software architecture that learns privacy norms for different audience groups based on the sharing behaviours of users.'
-'
+
 date: 2016-05-15
 venue: 'Proceedings of The 11th International Symposium on Software Engineering for Adaptive and Self-Managing Systems'
 paperurl: ''
