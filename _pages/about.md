@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior researcher at the Zurich Empirical Software Engineering Team (ZEST) at the University of Zurich (UZH), Switzerland. 
+I am a senior researcher at the Zurich Empirical Software Engineering Team (<a href="https://www.ifi.uzh.ch/en/zest/team.html">ZEST</a>) at the <a href="https://www.ifi.uzh.ch/en.html">Department of Informatics</a>, <a href="https://www.uzh.ch/en.html">University of Zurich</a> (UZH), Switzerland. 
 
 I obtained my Ph.D. and M.Sc. degrees in Computer Engineering and B.Sc. degree in Mechanical Engineering from Bogazici University, Istanbul. After my Ph.D., I worked as a postdoc fellow at The Open University, UK, and Ryerson University, Canada. Before joining ZEST, I worked as an assistant professor at Chalmers &#124; University of Gothenburg, Sweden.
+
 
 
 My work &amp; research 
