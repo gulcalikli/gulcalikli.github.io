@@ -15,7 +15,7 @@ I obtained my Ph.D. and M.Sc. degrees in Computer Engineering and B.Sc. degree i
 
 My work &amp; research 
 ======
-<p>My research field is empirical software engineering with a focus on human aspects. My broader vision is to enhance software practitioners' judgment and decision-making to improve software and development quality through the development of (1) tools and techniques based on cognitive psychology; and (2) Machine Learning systems with human in the loop that can be regarded as a joint cognitive system, extending human-intelligence.</p>
+<p>My research field is empirical software engineering with a focus on human aspects. I conduct <i>interdisciplinary research</i> at the intersection of <i>software engineering</i> and <i>cognitive psychology</i> that is sometimes accompanied by <i>Machine Learning</i> techniques and <i>social psychology</i> theories. My broader vision is to enhance software practitioners' judgment and decision-making to improve software and development quality through the development of (1) tools and techniques based on cognitive psychology; and (2) Machine Learning systems with human in the loop that can be regarded as a joint cognitive system, extending human-intelligence.</p>
 
 <p>Limitations in human cognition (e.g., long-term memory, working memory) often lead to systematic thinking errors known as cognitive biases.  For instance, while using text to convey information, how the wording is done can either deteriorate or enhance human judgment.  Hence, while investigating developers' information needs, it is also crucial to consider how to present it, which requires understanding human cognitive limitations.</p>
 
