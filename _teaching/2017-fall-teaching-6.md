@@ -1,5 +1,5 @@
 ---
-title: "Change Management in Software Development Organisations (DIT035, Fall 2016-2017)"
+title: "Change Management in Software Development Organisations (DIT035, Fall 2016-2017, approx. 30 students)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2017-fall-teaching-6
