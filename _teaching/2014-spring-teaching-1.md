@@ -3,7 +3,7 @@ title: "Spring 2020"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-spring-teaching-1
-venue: "University of Gothenburg, Dept. of Computer Science and Engineering, Software Engineering Division"
+venue: "University of Gothenburg, Dept. of Computer Science and Engineering (SEM Bachelor Program)"
 date: 2020-01-19
 location: "Gothenburg, Sweden"
 ---
