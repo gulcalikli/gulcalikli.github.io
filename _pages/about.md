@@ -10,7 +10,7 @@ redirect_from:
 
 I am a senior researcher at the Zurich Empirical Software Engineering Team (<a href="https://www.ifi.uzh.ch/en/zest/team.html">ZEST</a>) at the <a href="https://www.ifi.uzh.ch/en.html">Department of Informatics</a>, <a href="https://www.uzh.ch/en.html">University of Zurich</a> (UZH), Switzerland. 
 
-I obtained my Ph.D. and M.Sc. degrees in <a href="https://www.cmpe.boun.edu.tr/">Computer Engineering</a> and B.Sc. degree in <ahref="https://www.me.boun.edu.tr/">Mechanical Engineering</a> from  <a href="http://www.boun.edu.tr/en_US">Bo&#287;azi	&ccedil;i University</a>, Istanbul. After my Ph.D., I worked as a postdoc fellow at The Open University, UK, and Ryerson University, Canada. Before joining ZEST, I worked as an assistant professor at Chalmers &#124; University of Gothenburg, Sweden.
+I obtained my Ph.D. and M.Sc. degrees in <a href="https://www.cmpe.boun.edu.tr/">Computer Engineering</a> and B.Sc. degree in <a href="https://www.me.boun.edu.tr/">Mechanical Engineering</a> from  <a href="http://www.boun.edu.tr/en_US">Bo&#287;azi	&ccedil;i University</a>, Istanbul. After my Ph.D., I worked as a postdoc fellow at The Open University, UK, and Ryerson University, Canada. Before joining ZEST, I worked as an assistant professor at Chalmers &#124; University of Gothenburg, Sweden.
 
 
 
