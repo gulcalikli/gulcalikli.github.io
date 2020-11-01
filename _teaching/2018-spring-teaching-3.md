@@ -1,5 +1,5 @@
 ---
-title: "Mini Project: Systems Development (DIT112, Spring 2018)"
+title: "Mini Project: Systems Development (DIT112, Spring 2018, approx. 50 students)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2018-spring-teaching-3
