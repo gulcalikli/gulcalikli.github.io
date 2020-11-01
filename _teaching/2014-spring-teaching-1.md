@@ -1,5 +1,5 @@
 ---
-title: "Teaching at The University of Gothenburg"
+title: "Teaching at University of Gothenburg"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-spring-teaching-1
