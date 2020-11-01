@@ -1,5 +1,5 @@
 ---
-title: "Business Information Systems 1 (DIT037, Fall 2012, approx. 60 students)"
+title: "Business Information Systems 1 (CITM102, Fall 2012, approx. 60 students)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2012-fall-teaching-8
