@@ -1,8 +1,8 @@
 ---
-title: "Project: Systems Development (DIT524, Spring 2017)"
+title: "Project: Systems Development (DIT524, Spring 2017, approx. 65 Students)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2018-spring-teaching-3
+permalink: /teaching/2017-spring-teaching-4
 venue: "University of Gothenburg, Dept. of Computer Science and Engineering (SEM Bachelor Program)"
 date: 2017-02-10
 location: "Gothenburg, Sweden"
