@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2012-fall-teaching-8
 venue: "Ryerson University"
-date: 2017-09-01
+date: 2012-09-01
 location: "Toronto, Canada"
 ---
 This course was offered as a service course for students from various programs at the university.
