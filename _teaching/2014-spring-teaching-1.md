@@ -1,5 +1,5 @@
 ---
-title: "Spring 2020"
+title: "Spring 2020 Term"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-spring-teaching-1
@@ -9,8 +9,9 @@ location: "Gothenburg, Sweden"
 ---
 
 
-Data Structures and Algorithms (DIT181, Enrollment: approx. 85 students)
+Data Structures and Algorithms (DIT181)
 ======
 Students learn about algorithm complexity, recursion, sorting algorithms, and data structures (e.g., linked lists) and abstract data types (e.g., stacks and queues).
+Enrollment: ˜85 students
 
 [Download example course materials] (https://doi.org/10.5281/zenodo.3366923)
