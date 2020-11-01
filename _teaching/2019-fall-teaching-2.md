@@ -1,5 +1,5 @@
 ---
-title: "Mini Project: Team Programming (DIT092, Fall 2019)"
+title: "Mini Project: Team Programming (DIT092, Fall 2019, approx. 85 students)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-fall-teaching-2
