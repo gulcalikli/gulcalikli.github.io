@@ -1,5 +1,5 @@
 ---
-title: "Data Structures and Algorithms (DIT181, Spring 2018-2020)"
+title: "Data Structures and Algorithms (DIT181, Spring 2018-2020, approx. 85 Students)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-spring-teaching-1
