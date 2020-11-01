@@ -9,7 +9,7 @@ location: "Gothenburg, Sweden"
 ---
 
 
-Data Structures and Algortihms (DIT181, Enrollment: approx. 85 students)
+Data Structures and Algorithms (DIT181, Enrollment: approx. 85 students)
 ======
 Students learn about algorithm complexity, recursion, sorting algorithms, and data structures (e.g., linked lists) and abstract data types (e.g., stacks and queues).
 
