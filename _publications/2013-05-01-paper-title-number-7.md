@@ -1,7 +1,7 @@
 ---
 title: "Influence of Confirmation Biases of Developers on Software Quality: an Empirical Study"
 collection: publications
-permalink: /publication/2013-05-01-paper-title-number-6
+permalink: /publication/2013-05-01-paper-title-number-7
 excerpt: 'In this paper, we provide a metric scheme to measure confirmatory behaviour of software developers (i.e., confirmation bias) during their daily practices (e.g., unit testing). In order to assess the effectiveness of the metrics scheme, we perform an empirical study to predict defective parts of software.'
 date: 2013-05-01
 venue: 'Software Quality Journal'
