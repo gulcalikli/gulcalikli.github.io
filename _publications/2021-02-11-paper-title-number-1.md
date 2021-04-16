@@ -6,7 +6,7 @@ excerpt: 'In this paper, we explore developers' secure coding behaviours, more s
 date: 2021-02-11
 venue: '43rd International Conference on Software Engineering (ICSE) (accepted)'
 paperurl: ''
-citation: 'Larissa Braz, Enrico Fregnan, G&uuml;l &Ccedil;alikli, Alberto Bacchelli. (2021). &quot;Why Don't Developers Detect Improper Input Validation?'; DROP TABLE Papers; --&quot; <i>43rd International Conference on Software Engineering (ICSE) (accepted)</i>.'
+citation: 'Larissa Braz, Enrico Fregnan, G&uuml;l &Ccedil;alikli, Alberto Bacchelli. (2021). &quot;Why Don't Developers Detect Improper Input Validation?'; DROP TABLE Papers; --.&quot; <i>43rd International Conference on Software Engineering (ICSE) (accepted)</i>.'
 ---
 
 
