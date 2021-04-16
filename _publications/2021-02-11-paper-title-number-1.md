@@ -1,7 +1,7 @@
 ---
 title: "Why Don't Developers Detect Improper Input Validation?'; DROP TABLE Papers; --"
 collection: publications
-permalink: /publication/2021-02-05-paper-title-number-0
+permalink: /publication/2021-02-05-paper-title-number-1
 excerpt: 'In this paper, we explore developers' secure coding behaviours, more specifically why they don't detect Improper Input Validation (IIV), which is a prevalent vulnerability in software systems.'
 date: 2021-02-05
 venue: '43rd International Conference on Software Engineering (ICSE) (accepted)'
