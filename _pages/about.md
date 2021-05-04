@@ -14,7 +14,7 @@ I obtained my Ph.D. and M.Sc. degrees in <a href="https://www.cmpe.boun.edu.tr/"
 
 News
 ======
-<p><b><i>19.04.2021</i></b>: Our ICSE'21 paper "Why don’t Developers Detect Improper Input Validation?‘; DROP TABLE PAPERS;" with Larissa Braz, Enrico Fregnan and Alberto Bacchelli has been selected for an <b> ACM SIGSOFT Distinguished Paper Award </b>.</p>
+<p><b><i>19.04.2021</i></b>: Our <b>ICSE'21</b> paper "Why don’t Developers Detect Improper Input Validation?‘; DROP TABLE PAPERS;" with Larissa Braz, Enrico Fregnan and Alberto Bacchelli has been selected for an <b> ACM SIGSOFT Distinguished Paper Award </b>.</p>
 
 <p><b><i>15.12.2020</i></b>: Our paper "Why don’t Developers Detect Improper Input Validation?‘; DROP TABLE PAPERS;" with Larissa Braz, Enrico Fregnan and Alberto Bacchelli has been been accepted at <b> ICSE'21 </b> (Main Technical Track).</p>
 
@@ -24,6 +24,6 @@ News
 
 <p><b><i>15.09.2020</i></b>: I have started working as a Senior Researcher at ZEST Group at University of Zurich.</p>
 
-<p><b><i>12.09.2020</i></b>: I have been invited to CSCW'21 Program Committee to serve as an Associate Chair.</p>
+<p><b><i>12.09.2020</i></b>: I have been invited to <b>CSCW'21 Program Committee</b> to serve as an Associate Chair.</p>
 
-<p><b><i>11.07.2020</i></b>: Our ICSE'20 paper "Primers or Reminders? The Effects of Existing Review Comments on Code Review" with Davide Spadini and Alberto Bacchelli received an <b> ACM SIGSOFT Distinguished Artifact Award </b> .</p>
+<p><b><i>11.07.2020</i></b>: Our <b>ICSE'20</b> paper "Primers or Reminders? The Effects of Existing Review Comments on Code Review" with Davide Spadini and Alberto Bacchelli received an <b> ACM SIGSOFT Distinguished Artifact Award </b> .</p>
