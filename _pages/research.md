@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "My Research"
+title: "Research"
 permalink: /research/
 author_profile: true
 ---
@@ -13,6 +13,3 @@ author_profile: true
 <p> I am currently interested in software engineers' cognition limitations during program comprehension and software development activities (e.g., unit/functional testing and code review). For this purpose, I design experiments and studies in the wild besides conducting quantitative analyses on data from systems logs and tools (e.g., issue management systems).</p>
   
 <p> I also previously worked in building ML-based recommender systems as a facilitator of software practitioners' decision-making. Besides, I took part in developing prototypes for privacy-aware software, referring to theories on group dynamics from social psychology literature.</p>
-
-
-
