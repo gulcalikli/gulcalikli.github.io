@@ -4,7 +4,6 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-
 #{% include base_path %}
 
 <p>My research field is empirical software engineering with a focus on human aspects. I conduct <b><i>interdisciplinary research</i></b> at the intersection of <b><i>software engineering</i></b> and <i><b>cognitive psychology</b></i> that is sometimes accompanied by <i><b>Machine Learning</b></i> (ML) techniques and <i><b>social psychology</b></i> theories. My broader vision is to enhance software practitioners' judgment and decision-making to improve software and development quality through the development of <b>(1)</b> tools and techniques based on cognitive psychology; and <b>(2)</b> ML systems with human in the loop that can be regarded as a joint cognitive system, extending human-intelligence.</p>
