@@ -20,9 +20,9 @@ News
 
 <p><b><i>14.12.2020</i></b>: Our paper "How Explicit Feature Traces Did Not Impact Developers’ Memory" with Jacob Kruger, Thorsten Berger and Thomas Leich has been been accepted at <b> SANER'21 </b> (RENE Track).</p>
 
-<p><b><i>15.10.2020</i></b>: I finally moved to Zurich, Switzerland.</p>
+#<p><b><i>15.10.2020</i></b>: I finally moved to Zurich, Switzerland.</p>
 
-<p><b><i>15.09.2020</i></b>: I have started working as a Senior Researcher at ZEST Group at University of Zurich.</p>
+#<p><b><i>15.09.2020</i></b>: I have started working as a Senior Researcher at ZEST Group at University of Zurich.</p>
 
 <p><b><i>12.09.2020</i></b>: I have been invited to <b>CSCW'21 Program Committee</b> to serve as an Associate Chair.</p>
 
