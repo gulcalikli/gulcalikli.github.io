@@ -24,4 +24,6 @@ News
 
 <p><b><i>15.09.2020</i></b>: I have started working as a Senior Researcher at ZEST Group at University of Zurich.</p>
 
+<p><b><i>12.09.2020</i></b>: I have been invited to CSCW'21 Program Committee to serve as an Associate Chair.</p>
+
 <p><b><i>11.07.2020</i></b>: Our ICSE'20 paper "Primers or Reminders? The Effects of Existing Review Comments on Code Review" with Davide Spadini and Alberto Bacchelli received an <b> ACM SIGSOFT Distinguished Artifact Award </b> .</p>
