@@ -14,8 +14,14 @@ I obtained my Ph.D. and M.Sc. degrees in <a href="https://www.cmpe.boun.edu.tr/"
 
 News
 ======
-<p><b><i>April 19, 2021</i></b>: Our paper "Why don’t Developers Detect Improper Input Validation?‘; DROP TABLE PAPERS;" with Larissa Braz, Enrico Fregnan and Alberto Bacchelli has been selected for an <b> ACM SIGSOFT Distinguished Paper Award </b>.</p>
+<p><b><i>19.04.2021</i></b>: Our ICSE'21 paper "Why don’t Developers Detect Improper Input Validation?‘; DROP TABLE PAPERS;" with Larissa Braz, Enrico Fregnan and Alberto Bacchelli has been selected for an <b> ACM SIGSOFT Distinguished Paper Award </b>.</p>
 
-<p><b><i>Dec 15, 2020</i></b>: Our paper "Why don’t Developers Detect Improper Input Validation?‘; DROP TABLE PAPERS;" with Larissa Braz, Enrico Fregnan and Alberto Bacchelli has been been accepted at <b> ICSE2021 </b> (Main Technical Track).</p>
+<p><b><i>15.12.2020</i></b>: Our paper "Why don’t Developers Detect Improper Input Validation?‘; DROP TABLE PAPERS;" with Larissa Braz, Enrico Fregnan and Alberto Bacchelli has been been accepted at <b> ICSE'21 </b> (Main Technical Track).</p>
 
-<p><b><i>Dec 14, 2020</i></b>: Our paper "How Explicit Feature Traces Did Not Impact Developers’ Memory" with Jacob Kruger, Thorsten Berger and Thomas Leich has been been accepted at <b> SANER2021 </b> (RENE Track).</p>
+<p><b><i>14.12.2020</i></b>: Our paper "How Explicit Feature Traces Did Not Impact Developers’ Memory" with Jacob Kruger, Thorsten Berger and Thomas Leich has been been accepted at <b> SANER'21 </b> (RENE Track).</p>
+
+<p><b><i>15.10.2020</i></b>: I finally moved to Zurich, Switzerland.</p>
+
+<p><b><i>15.09.2020</i></b>: I have started working as a Senior Researcher at ZEST Group at University of Zurich.</p>
+
+<p><b><i>11.07.2020</i></b>: Our ICSE'20 paper "Primers or Reminders? The Effects of Existing Review Comments on Code Review" with Davide Spadini and Alberto Bacchelli received an <b> ACM SIGSOFT Distinguished Artifact Award </b> .</p>
