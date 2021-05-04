@@ -14,4 +14,4 @@ I obtained my Ph.D. and M.Sc. degrees in <a href="https://www.cmpe.boun.edu.tr/"
 
 News
 ======
-<p>April 19, 2021: Our paper "Why don’t Developers Detect Improper Input Validation?‘; DROP TABLE PAPERS;" with Larissa Braz, Enrico Fregnan and Alberto Bacchelli has been selected for an <b> ACM SIGSOFT Distinguished Paper Award </b>.</p>
+<p><b><i>April 19, 2021</i><b>: Our paper "Why don’t Developers Detect Improper Input Validation?‘; DROP TABLE PAPERS;" with Larissa Braz, Enrico Fregnan and Alberto Bacchelli has been selected for an <b> ACM SIGSOFT Distinguished Paper Award </b>.</p>
