@@ -12,7 +12,7 @@ I am a senior researcher at the Zurich Empirical Software Engineering Team (<a h
 
 News
 ======
-<p><b><i>19.04.2021</i></b>: Our <b>ICSE'21</b> paper "Why don’t Developers Detect Improper Input Validation?‘; DROP TABLE PAPERS;" with Larissa Braz, Enrico Fregnan and Alberto Bacchelli has been selected for an <b> ACM SIGSOFT Distinguished Paper Award </b>.</p>
+<p><b><i>19.04.2021</i></b>: Our <b>ICSE'21</b> paper "<a href="https://arxiv.org/abs/2102.06251">Why don’t Developers Detect Improper Input Validation?‘; DROP TABLE PAPERS;</a>" with Larissa Braz, Enrico Fregnan and Alberto Bacchelli has been selected for an <b> ACM SIGSOFT Distinguished Paper Award </b>.</p>
 <p><b><i>15.12.2020</i></b>: Our paper "Why don’t Developers Detect Improper Input Validation?‘; DROP TABLE PAPERS;" with Larissa Braz, Enrico Fregnan and Alberto Bacchelli has been been accepted at <b> ICSE'21 </b> (Main Technical Track).</p>
 <p><b><i>14.12.2020</i></b>: Our paper "How Explicit Feature Traces Did Not Impact Developers’ Memory" with Jacob Kruger, Thorsten Berger and Thomas Leich has been been accepted at <b> SANER'21 </b> (RENE Track).</p>
 <p><b><i>12.09.2020</i></b>: I have been invited to <b>CSCW'21 Program Committee</b> to serve as an Associate Chair.</p>
