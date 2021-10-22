@@ -18,4 +18,4 @@ Improper Input Validation (IIV) is a software vulnerability that occurs when a s
 
 [Watch Presentation Video](https://www.youtube.com/watch?v=e2QpmMl6K90)
 
-Recommended citation: Larissa Braz, Enrico Fregran, G&uuml;l &Ccedil;alikli, Alberto Bacchelli. (2021). "Why don't Developers Detect Improper Input Validation?; DROP TABLE Papers;--." <i>Proceedings of The 42nd International Conference on Software Engineering (ICSE)</i>. 1171-1182.
+Recommended citation: Larissa Braz, Enrico Fregran, G&uuml;l &Ccedil;alikli, Alberto Bacchelli. (2021). "Why don't Developers Detect Improper Input Validation?; DROP TABLE Papers;--." <i>Proceedings of The 43rd International Conference on Software Engineering (ICSE)</i>. 499-511.
