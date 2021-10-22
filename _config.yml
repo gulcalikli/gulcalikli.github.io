@@ -14,7 +14,7 @@ locale                   : "en-US"
 title                    : "H. G&uuml;l &Ccedil;alikli"
 title_separator          : "-"
 name                     : &name "H. G&uuml;l &Ccedil;alikli"
-description              : &description "Senior Researcher in the ZEST Research Group at the Department of Informatics, University of Zurich"
+description              : &description "Lecturer in Software Engineering at the School of Computing Science, University of Glasgow"
 url                      : https://gulcalikli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gulcalikli/gulcalikli.github.io"
@@ -86,12 +86,12 @@ analytics:
 author:
   name             : "H. G&uuml;l &Ccedil;alikli"
   avatar           : "profile.png"
-  bio              : "Senior Researcher in the ZEST Research Group at the UZH Department of Informatics"
+  bio              : "Lecturer (Assist. Prof.)in Software Engineering at the School of Computing"
   location         : 
-  employer         : "University of Zurich"
+  employer         : "University of Glasgow"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=gul.calikli@gmail.com"
-  email            : "calikli@ifi.uzh.ch" 
+  email            : "HandanGul.Calikli@glasgow.ac.uk" 
   researchgate     : "https://www.researchgate.net/profile/Gul_Calikli" 
   uri              :
   bitbucket        :
