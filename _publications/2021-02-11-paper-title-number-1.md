@@ -6,7 +6,7 @@ excerpt: 'In this paper, we study to what extent developers can detect Improper 
 date: 2021-02-11
 venue: 'Proceedings of the 43rd International Conference on Software Engineering (ICSE)'
 paperurl: ''
-citation: 'Larissa Braz, Enrico Fregran, G&uuml;l &Ccedil;alikli, Alberto Bacchelli. (2021). &quot;Why don&apos;t Developers Detect Improper Input Validation?.&quot; <i>Proceedings of the 42nd International Conference on Software Engineering (ICSE)</i>. 1171-1182.'
+citation: 'Larissa Braz, Enrico Fregran, G&uuml;l &Ccedil;alikli, Alberto Bacchelli. (2021). &quot;Why don&apos;t Developers Detect Improper Input Validation? &#59; DROP TABLE Papers &#59;.&quot; <i>Proceedings of the 42nd International Conference on Software Engineering (ICSE)</i>. 1171-1182.'
 ---
 One main novelty of this paper is the usage of a psychological setup that measures developers’ proneness to availability bias and triangulates them with developers’ subjective experience during code review.
 
