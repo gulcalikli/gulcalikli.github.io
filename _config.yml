@@ -14,7 +14,7 @@ locale                   : "en-US"
 title                    : "H. G&uuml;l &Ccedil;alikli"
 title_separator          : "-"
 name                     : &name "H. G&uuml;l &Ccedil;alikli"
-description              : &description "Lecturer in Software Engineering at the School of Computing Science, University of Glasgow"
+description              : &description "Lecturer (Assistant Professor) in Software Engineering at the School of Computing Science, University of Glasgow"
 url                      : https://gulcalikli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gulcalikli/gulcalikli.github.io"
@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "H. G&uuml;l &Ccedil;alikli"
   avatar           : "profile.png"
-  bio              : "Lecturer (Assist. Prof.)in Software Engineering at the School of Computing"
+  bio              : "Lecturer (Assistant Professor) in Software Engineering at the School of Computing"
   location         : 
   employer         : "University of Glasgow"
   pubmed           : 
