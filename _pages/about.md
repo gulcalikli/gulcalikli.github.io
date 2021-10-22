@@ -16,7 +16,7 @@ News
   
 <li>(21.10.2021) I will serve at the <b>ICPC'22 Program Committee</b> (Main Research Track).</li>  
 
-<li>(15.09.2021) I have started to work as a Lecturer (Assistant Professor) at the School of Computing Science, University of Glasgow.</li>  
+<li>(15.09.2021) I have started to work as a <b>Lecturer (Assistant Professor)</b> at the <b>School of Computing Science</b>, <b>University of Glasgow</b>.</li>  
 
 <li>(26.08.2021) I have been invited to serve at the <b>ASE'22 Program Committee</b> (Main Research Track).</li>
 
