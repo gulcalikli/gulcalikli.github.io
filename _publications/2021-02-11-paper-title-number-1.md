@@ -2,7 +2,7 @@
 title: "Why don't Developers Detect Improper Input Validation?; DROP TABLE Papers;--"
 collection: publications
 permalink: /publication/2020-07-08-paper-title-number-1
-excerpt: 'In this paper, we explore developers' behaviours during code review for secure software development.'
+excerpt: 'In this paper, '
 date: 2020-07-08
 venue: 'Proceedings of the 42nd International Conference on Software Engineering (ICSE)'
 paperurl: ''
