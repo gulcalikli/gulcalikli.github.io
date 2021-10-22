@@ -1,22 +1,22 @@
 ---
-title: "Why don't Developers Detect Improper Input Validation; DROP TABLE Papers;--"
+title: "Primers or Reminders? The Effects of Existing Review Comments on Code Review"
 collection: publications
-permalink: /publication/2021-02-11-paper-title-number-1
-excerpt: 'In this paper, we investigate developers' secure coding behaviour during code review.'
-date: 2021-02-11
-venue: 'Proceedings of the 43rd International Conference on Software Engineering (ICSE)'
+permalink: /publication/2020-07-08-paper-title-number-1
+excerpt: 'In this paper, we explore the robustness of current code review settings in the presence of the availability bias of developers.'
+date: 2020-07-08
+venue: 'Proceedings of the 42nd International Conference on Software Engineering (ICSE)'
 paperurl: ''
-citation: 'Larissa Braz, Enrico Fregnan, G&uuml;l &Ccedil;alikli, Alberto Bacchelli. (2021). &quot;Why don't Developers Detect Improper Input Validation; DROP TABLE Papers;--. &quot; <i>Proceedings of the 43rd International Conference on Software Engineering (ICSE)</i>. 1171-1182.'
+citation: 'Davide Spadini, G&uuml;l &Ccedil;alikli, Alberto Bacchelli. (2020). &quot;Primers or Reminders? The Effects of Existing Code Review Comments on Code Review.&quot; <i>Proceedings of the 42nd International Conference on Software Engineering (ICSE)</i>. 1171-1182.'
 ---
+One main novelty of this paper is the usage of a psychological setup that measures developers’ proneness to availability bias and triangulates them with developers’ subjective experience during code review.
 
 ABSTRACT:
-Improper Input Validation (IIV) is a software vulnerability that occurs when a system does not safely handle input data. Even though IIV is easy to detect and fix, it still commonly happens in practice. In this paper, we study to what extent developers can detect IIV and investigate underlying reasons. This knowledge is essential to better understand how to support developers in creating secure software systems. We conduct an online experiment with 146 participants, of which 105 report at least three years of professional software development experience. Our results show that the existence of a visible attack scenario facilitates the detection of IIV vulnerabilities and that a significant portion of developers who did not find the vulnerability initially could identify it when warned about its existence. Yet, a total of 60 participants could not detect the vulnerability even after the warning. Other factors, such as the frequency with which the participants perform code reviews, influence the detection of IIV.
+In contemporary code review, the comments put by reviewers on a specific code change are immediately visible to the other reviewers involved. Could this visibility prime new reviewers’ attention (due to the human’s proneness to availability bias), thus biasing the code review outcome? In this study, we investigate this topic by conducting a controlled experiment with 85 developers who perform a code review and a psychological experiment. With the psychological experiment, we find that ≈70% of participants are prone to availability bias. However, when it comes to the code review, our experiment results show that participants are primed only when the existing code review comment is about a type of bug that is not normally considered; when this comment is visible, participants are more likely to find another occurrence of this type of bug. Moreover, this priming effect does not influence reviewers’ likelihood of detecting other types of bugs. Our findings suggest that the current code review practice is effective because existing review comments about bugs in code changes are not negative primers, rather positive reminders for bugs that would otherwise be overlooked during code review. 
 
-[Download paper here](https://arxiv.org/abs/2102.06251)
+[Download paper here](http://gulcalikli.github.io/files/priming.pdf)
 
-[Access Data and Materials from here](https://zenodo.org/record/3996696#.YXLsfi8w2Rs)
+[Access Data and Materials from here](https://doi.org/10.5281/zenodo.3653856)
 
 [Watch Presentation Video](https://www.youtube.com/watch?v=5HGAZz7N9Uk)
 
-Recommended citation: Larissa Braz, Enrico Fregnan, G&uuml;l &Ccedil;alikli, Alberto Bacchelli. (2021). "Why don't Developers Detect Improper Input Validation; DROP TABLE Papers;--." <i>Proceedings of The 43rd International Conference on Software Engineering (ICSE)</i>. 1171-1182.
-
+Recommended citation: Davide Spadini, G&uuml;l &Ccedil;alikli, Alberto Bacchelli. (2020). "Primers or Reminders? The Effects of Existing Code Review Comments on Code Review." <i>Proceedings of The 42nd International Conference on Software Engineering (ICSE)</i>. 1171-1182.
