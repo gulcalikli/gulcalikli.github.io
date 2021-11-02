@@ -15,7 +15,7 @@ News
 ======
 <ul>
 
-<li>(02.11.2021) I will serve at the <b>EASE'22 Program Committee</b> (Vision and Emerging Results Track).</li>  
+<li>(02.11.2021) I will serve at the EASE'22 Program Committee (Vision and Emerging Results Track).</li>  
   
 <li>(21.10.2021) I will serve at the <b>ICPC'22 Program Committee</b> (Main Research Track).</li>  
 
