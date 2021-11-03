@@ -29,9 +29,9 @@ News
 
 <li>(15.12.2020) Our paper "Why don’t Developers Detect Improper Input Validation?‘; DROP TABLE PAPERS;" with Larissa Braz, Enrico Fregnan and Alberto Bacchelli has been accepted at <b> ICSE'21 </b> (Main Technical Track).</li>
 
-<li>(14.12.2020) Our paper "How Explicit Feature Traces Did Not Impact Developers’ Memory" with Jacob Kr&uuml;ger, Thorsten Berger and Thomas Leich has been accepted at <b> SANER'21 </b> (RENE Track).</li>
+<li>(14.12.2020) Our paper "How Explicit Feature Traces Did Not Impact Developers’ Memory" with Jacob Kr&uuml;ger, Thorsten Berger and Thomas Leich has been accepted at SANER'21 (RENE Track).</li>
 
-<li> (12.09.2020) I will serve at <b>CSCW'21 Program Committee</b> serve as an Associate Chair.</li>
+<li> (12.09.2020) I will serve at CSCW'21 Program Committee serve as an Associate Chair.</li>
 
 <li>(11.07.2020) Our <b>ICSE'20</b> paper "Primers or Reminders? The Effects of Existing Review Comments on Code Review" with Davide Spadini and Alberto Bacchelli received an <b> ACM SIGSOFT Distinguished Artifact Award </b> .</li>
 
