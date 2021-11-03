@@ -17,11 +17,11 @@ News
 
 <li>(02.11.2021) I will serve at the EASE'22 Program Committee (Vision and Emerging Results Track).</li>  
   
-<li>(21.10.2021) I will serve at the <b>ICPC'22 Program Committee</b> (Main Research Track).</li>  
+<li>(21.10.2021) I will serve at the ICPC'22 Program Committee (Main Research Track).</li>  
 
 <li>(15.09.2021) I have started to work as a <b>Lecturer (Assistant Professor)</b> at the <b>School of Computing Science</b>, <b>University of Glasgow</b>.</li>  
 
-<li>(26.08.2021) I have been invited to serve at the <b>ASE'22 Program Committee</b> (Main Research Track).</li>
+<li>(26.08.2021) I have been invited to serve at the ASE'22 Program Committee (Main Research Track).</li>
 
 <li>(19.04.2021) Our <b>ICSE'21</b> paper "<a href="https://arxiv.org/abs/2102.06251">Why don’t Developers Detect Improper Input Validation?‘; DROP TABLE PAPERS;</a>" with Larissa Braz, Enrico Fregnan and Alberto Bacchelli has been selected for an <b> ACM SIGSOFT Distinguished Paper Award </b>.</li>
   
