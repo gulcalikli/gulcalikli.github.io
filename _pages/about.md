@@ -15,6 +15,8 @@ News
 ======
 <ul>
 
+<li>(30.12.2021) Our paper "Interpersonal Conflicts during Code Review: Developers' Experience and Practices" with Pavlina Wurzel Goncalves and Alberto Bacchelli has been accepted at CSCW'22.</li> 
+
 <li>(02.11.2021) I will serve at the EASE'22 Program Committee (Vision and Emerging Results Track).</li>  
   
 <li>(21.10.2021) I will serve at the ICPC'22 Program Committee (Main Research Track).</li>  
