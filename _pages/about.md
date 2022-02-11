@@ -15,7 +15,7 @@ News
 ======
 <ul>
 
-<li>(03.12.2021) Our paper "Less is More: Supporting Developers in Vulnerability Detection during Code Review" with Larissa Braz, Christian Aeberhard  and Alberto Bacchelli has been accepted at <b> ICSE'22 </b> (Main Technical Track).</li> 
+<li>(03.12.2021) Our paper "<a href="https://arxiv.org/pdf/2202.04586.pdf"> Less is More: Supporting Developers in Vulnerability Detection during Code Review: Mental Attitude and Security Checklists</a>" with Larissa Braz, Christian Aeberhard  and Alberto Bacchelli has been accepted at <b> ICSE'22 </b> (Main Technical Track).</li> 
   
 <li>(30.11.2021) Our paper "<a href="https://arxiv.org/pdf/2201.05425.pdf">Interpersonal Conflicts during Code Review: Developers' Experience and Practices</a>" with Pavl&iacute;na Wurzel Gon&ccedil;alves and Alberto Bacchelli has been accepted at CSCW'22.</li> 
 
