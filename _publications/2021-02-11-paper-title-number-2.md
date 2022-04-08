@@ -1,7 +1,7 @@
 ---
 title: "Why don't Developers Detect Improper Input Validation?; DROP TABLE Papers;--"
 collection: publications
-permalink: /publication/2020-07-08-paper-title-number-1
+permalink: /publication/2021-02-11-paper-title-number-2
 excerpt: 'In this paper, we study to what extent developers can detect Improper Input Validation (IIV) and investigate underlying reason.'
 date: 2021-02-11
 venue: 'Proceedings of the 43rd International Conference on Software Engineering (ICSE)'
