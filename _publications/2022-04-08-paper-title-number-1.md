@@ -6,7 +6,7 @@ excerpt: 'In this paper, we investigate interpersonal conflicts among developers
 date: 2022-04-08
 venue: 'Proceedings of the 25th ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW)'
 paperurl: 'https://dl.acm.org/doi/10.1145/3512945'
-citation: 'Pavlina Wurzel Gon&Ccedil;alves, G&uuml;l &Ccedil;alikli, Alberto Bacchelli. (2022). &quot;Interpersonal Conflicts During Code Review: Developers&apos; Experience and Practices.&quot; <i>Proceedings of the 25th ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW)</i>. 1-33.'
+citation: 'Pavl&iacute;na Wurzel Gon&Ccedil;alves, G&uuml;l &Ccedil;alikli, Alberto Bacchelli. (2022). &quot;Interpersonal Conflicts During Code Review: Developers&apos; Experience and Practices.&quot; <i>Proceedings of the 25th ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW)</i>. 1-33.'
 ---
 
 ABSTRACT:
@@ -16,4 +16,4 @@ Code review consists of manual inspection, discussion, and judgment of source co
 
 [Access Data and Materials from here]( https://zenodo.org/record/5848794#.YlBlGC8w30o)
 
-Recommended citation: Pavlina Wurzel Gon&ccedil;alves, G&uuml;l &Ccedil;alikli, Alberto Bacchelli. (2022). "Interpersonal Conflicts During Code Review: Developers' Experience and Practices." <i>Proceedings of the ACM on Human Computer Interaction (CSCW)</i>. 98-(1-33).
+Recommended citation: Pavl&iacute;na Wurzel Gon&ccedil;alves, G&uuml;l &Ccedil;alikli, Alberto Bacchelli. (2022). "Interpersonal Conflicts During Code Review: Developers' Experience and Practices." <i>Proceedings of the ACM on Human Computer Interaction (CSCW)</i>. Article No: 98, pp.1-33.
