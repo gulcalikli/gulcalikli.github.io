@@ -16,4 +16,4 @@ Code review consists of manual inspection, discussion, and judgment of source co
 
 [Access Data and Materials from here]( https://zenodo.org/record/5848794#.YlBlGC8w30o)
 
-Recommended citation: Pavlina Wurzel Gon&Ccedil;alves, G&uuml;l &Ccedil;alikli, Alberto Bacchelli. (2022). "Interpersonal Conflicts During Code Review: Developers' Experience and Practices." <i>Proceedings of the ACM on Human Computer Interaction (CSCW)</i>. 98-(1-33).
+Recommended citation: Pavlina Wurzel Gon&ccedil;alves, G&uuml;l &Ccedil;alikli, Alberto Bacchelli. (2022). "Interpersonal Conflicts During Code Review: Developers' Experience and Practices." <i>Proceedings of the ACM on Human Computer Interaction (CSCW)</i>. 98-(1-33).
