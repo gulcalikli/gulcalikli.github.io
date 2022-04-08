@@ -2,12 +2,11 @@
 title: "Interpersonal Conflicts During Code Review: Developers' Experience and Practices"
 collection: publications
 permalink: /publication/2022-04-08-paper-title-number-1
-excerpt: 'In this paper, we investigate interpersonal conflicts among developers during code review through the thematic analysis of interviews conducted with 22 developers'
+excerpt: 'In this paper, we investigate interpersonal conflicts among developers during code review through the thematic analysis of interviews conducted with 22 developers.'
 date: 2022-04-08
-venue: 'The 25th ACM Conference On Computer Supported Cooperative Work And Social Computing'
-
-paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3512945'
-citation: 'Pavlina Wurzel Gon&Ccedil;alves, G&uuml;l &Ccedil;alikli, Alberto Bacchelli. (2022). &quot; Interpersonal Conflicts During Code Review: Developers&apos; Experience and Practices&quot; <i>'Proceedings of the ACM on Human Computer Interaction (CSCW)</i>. 499-511.'
+venue: 'Proceedings of the 25th ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW)'
+paperurl: 'https://dl.acm.org/doi/10.1145/3512945'
+citation: 'Pavlina Wurzel Gon&Ccedil;alves, G&uuml;l &Ccedil;alikli, Alberto Bacchelli. (2022). &quot;Interpersonal Conflicts During Code Review: Developers&apos; Experience and Practices.&quot; <i>Proceedings of the 25th ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW)</i>. 1-33.'
 ---
 
 ABSTRACT:
