@@ -1,7 +1,7 @@
 ---
 title: "Logging you, Logging me: A Replicable Study of Privacy and Sharing Behaviour in Groups of Visual Lifeloggers"
 collection: publications
-permalink: /publication/2017-07-01-paper-title-number-4
+permalink: /publication/2017-07-01-paper-title-number-5
 excerpt: 'In this paper, we conducted a study in the wild with students on a UK campus to investigate the individual and group based privacy beaviours of visual lifeloggers.'
 date: 2017-07-01
 venue: 'Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)'
