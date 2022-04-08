@@ -1,7 +1,7 @@
 ---
 title: "Empirical Analysis of Factors Affecting Confirmation Bias Levels of Software Engineers"
 collection: publications
-permalink: /publication/2015-05-01-paper-title-number-7
+permalink: /publication/2015-05-01-paper-title-number-8
 excerpt: 'This paper aims to invetigate in the wild the factors affecting confirmation bias levels of software engineers.'
 date: 2015-05-01
 venue: 'Software Quality Journal'
