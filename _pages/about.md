@@ -14,7 +14,9 @@ I am a Lecturer (Assistant Professor) in Software Engineering at the <a href="ht
 News
 ======
 <ul>
-
+  
+<li>(16.05.2022) I am honored to receive the Distinguished Reviewer Award at ICPC'22. It was a pleasure for me to serve the ICPC community as OCPC'22 PC meember</li>
+  
 <li>(03.12.2021) Our paper "<a href="https://arxiv.org/pdf/2202.04586.pdf"> Less is More: Supporting Developers in Vulnerability Detection during Code Review: Mental Attitude and Security Checklists</a>" with Larissa Braz, Christian Aeberhard  and Alberto Bacchelli has been accepted at <b> ICSE'22 </b> (Main Technical Track).</li> 
   
 <li>(30.11.2021) Our paper "<a href="https://arxiv.org/pdf/2201.05425.pdf">Interpersonal Conflicts during Code Review: Developers' Experience and Practices</a>" with Pavl&iacute;na Wurzel Gon&ccedil;alves and Alberto Bacchelli has been accepted at CSCW'22.</li> 
