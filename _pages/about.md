@@ -15,7 +15,7 @@ News
 ======
 <ul>
   
-<li>(16.05.2022) I am honored to receive the Distinguished Reviewer Award at ICPC'22. It was a pleasure for me to serve the ICPC community as ICPC'22 PC meember</li>
+<li>(16.05.2022) I am honored to receive a Distinguished Reviewer Award at ICPC'22. It was a pleasure for me to serve the ICPC community as ICPC'22 PC member</li>
   
 <li>(03.12.2021) Our paper "<a href="https://arxiv.org/pdf/2202.04586.pdf"> Less is More: Supporting Developers in Vulnerability Detection during Code Review: Mental Attitude and Security Checklists</a>" with Larissa Braz, Christian Aeberhard  and Alberto Bacchelli has been accepted at <b> ICSE'22 </b> (Main Technical Track).</li> 
   
