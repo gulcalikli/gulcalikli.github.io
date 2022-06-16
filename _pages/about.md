@@ -14,6 +14,8 @@ I am a Lecturer (Assistant Professor) in Software Engineering at the <a href="ht
 News
 ======
 <ul>
+
+<li>(16.06.2022) Our paper "First Come First Served: The Impact of File Position on Code Review" with Enrico Fregnan, Larissa Braz, Marco D'ambros and Alberto Bacchelli has been accepted at <b> ESEC/FSE'22 </b> (Main Technical Track).</li>
   
 <li>(16.05.2022) I am honored to receive a Distinguished Reviewer Award at ICPC'22. It was a pleasure for me to serve the ICPC community as an ICPC'22 PC member</li>
   
