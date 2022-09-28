@@ -15,6 +15,9 @@ In this study, we investigate whether and how explicitly asking developers to fo
 
 [Download the paper](https://arxiv.org/pdf/2202.04586.pdf)
 
+[Download research artifacts (data and materials)](https://zenodo.org/record/6026291#.YzQsK-zMK3I)
+
+[Watch the presentation video](https://conf.researchr.org/details/icse-2022/icse-2022-papers/164/Less-is-More-Supporting-Developers-in-Vulnerability-Detection-during-Code-Review)
 
 Recommended citation: Larissa Braz, Christian Aeberhard, G&uuml;l &Ccedil;alikli, Alberto Bacchelli. (2013). &quot;Less is more: supporting developers in vulnerability detection during code review. &quot; <i>roceedings of the 44th International Conference on Software Engineering(ICSE 2022)</i>. 1317–1329 (2022).
 
