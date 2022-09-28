@@ -1,7 +1,7 @@
 ---
 title: "Less is more: supporting developers in vulnerability detection during code review"
 collection: publications
-permalink: /publication/2021-12-02-paper-title-number-10
+permalink: /publication/2021-12-02-paper-title-number-2
 excerpt: 'In this paper, we investigate whether and how explicitly asking developers to focus on security or using checklists during a code review affects the detection of vulnerabilities.'
 date: 2013-05-01
 venue: 'Software Quality Journal'
