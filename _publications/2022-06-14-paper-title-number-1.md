@@ -2,11 +2,11 @@
 title: "First Come First Served: The Impact of File Position on Code Review"
 collection: publications
 permalink: /publication/2022-06-14-paper-title-number-1
-excerpt: 'In this paper, we investigate the order of files to be reviewed on code review performance'
+excerpt: 'In this paper, we investigate the order of files to be reviewed on code review performance.'
 date: 2022-06-14
 venue: 'ESEC/FSE 2022'
 paperurl: ''
-citation: 'Enrico Fregnan, Larissa Braz, Marco D'Ambros, G&uuml;l &Ccedil;alikli, Alberto Bacchelli. (2022). &quot;First Come First Served: The Impact of File Position on Code Review &quot; <i> The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2022)</i>.(2022).'
+citation: 'Enrico Fregnan, Larissa Braz, Marco D&aposAmbros, G&uuml;l &Ccedil;alikli, Alberto Bacchelli. (2022). &quot;First Come First Served: The Impact of File Position on Code Review &quot; <i> The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2022)</i>.(2022).'
 ---
 
 ABSTRACT: The most popular code review tools (e.g., Gerrit and GitHub) present the files to review sorted in alphabetical order. Could this choice or, more generally, the relative position in which a file is presented bias the outcome of code reviews? We investigate this hypothesis by triangulating complementary evidence in a two-step study.
