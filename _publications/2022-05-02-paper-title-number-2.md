@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-12-02-paper-title-number-2
 excerpt: 'In this paper, we investigate whether and how explicitly asking developers to focus on security or using checklists during a code review affects the detection of vulnerabilities.'
 date: 2022-05-02
-venue: 'Software Quality Journal'
+venue: 'Proceedings of the 44th International Conference on Software Engineering(ICSE 2022)'
 paperurl: ''
 citation: 'Larissa Braz, Christian Aeberhard, G&uuml;l &Ccedil;alikli, Alberto Bacchelli. (2022). &quot;Less is more: supporting developers in vulnerability detection during code review. &quot; <i> Proceedings of the 44th International Conference on Software Engineering(ICSE 2022)</i>. 1317–1329 (2022).'
 ---
