@@ -1,19 +1,20 @@
 ---
-title: "Influence of Confirmation Biases of Developers on Software Quality: an Empirical Study"
+title: "Less is more: supporting developers in vulnerability detection during code review"
 collection: publications
-permalink: /publication/2013-05-01-paper-title-number-9
-excerpt: 'In this paper, we provide a metric scheme to measure confirmatory behaviour of software developers (i.e., confirmation bias) during their daily practices (e.g., unit testing). In order to assess the effectiveness of the metrics scheme, we perform an empirical study to predict defective parts of software.'
+permalink: /publication/2021-12-02-paper-title-number-10
+excerpt: 'In this paper, we investigate whether and how explicitly asking developers to focus on security or using checklists during a code review affects the detection of vulnerabilities.'
 date: 2013-05-01
 venue: 'Software Quality Journal'
 paperurl: ''
-citation: 'G&uuml;l &Ccedil;alikli, Ay&scedil;e Bener. (2013). &quot;Influence of Confirmation Biases of Developers on Software Quality: an Empirical Study. &quot; <i>Software Quality Journal</i>. 21(2): 377-416 (2013).'
+citation: 'Larissa Braz, Christian Aeberhard, G&uuml;l &Ccedil;alikli, Alberto Bacchelli. (2022). &quot;Less is more: supporting developers in vulnerability detection during code review. &quot; <i> Proceedings of the 44th International Conference on Software Engineering(ICSE 2022)</i>. 1317–1329 (2022).'
 ---
 
-ABSTRACT: People’s thought processes have a significant impact on software quality, as software is designed, developed and tested by people. Cognitive biases, which are defined as deviations of human mind from the laws of logic and mathematics, are likely to cause software defects. However, there is little empirical evidence to date to substantiate this assertion. In this research, we focus on a specific cognitive bias type called confirmation bias. Confirmation bias is believed to be one of the factors that lead to increased software defect density. Due to confirmation bias, developers might perform unit tests to make their program work. This results in the propagation of more defects to testing phase and hence probably an increase in software defect density. In this research, we present a metric scheme to explore the impact of developers’ confirmation bias on software defect density. In order to estimate effectiveness of our metric scheme in quantification of confirmation bias within the context of software development, we perform an empirical study which addresses prediction of defective parts of software. In our empirical study, we applied confirmation bias metrics to five datasets obtained from two industrial partners which are from Telecomunications and Enterprize Resource Planning (ERP) domains respectively. Our results provide empirical evidence that people’s thought processes and cognitive aspects deserve further
-investigation to find out empirical evidence about their effectiveness in software defect prediction as well as their relation to software quality.
+ABSTRACT: Reviewing source code from a security perspective has proven to be a difficult task. Indeed, previous research has shown that developers often miss even popular and easy-to-detect vulnerabilities during code review. Initial evidence suggests that a significant cause may lie in the reviewers' mental attitude and common practices.
 
-[Download the paper](https://gulcalikli.github.io/files/SQJ2013.pdf)
+In this study, we investigate whether and how explicitly asking developers to focus on security during a code review affects the detection of vulnerabilities. Furthermore, we evaluate the effect of providing a security checklist to guide the security review. To this aim, we conduct an online experiment with 150 participants, of which 71% report to have three or more years of professional development experience. Our results show that simply asking reviewers to focus on security during the code review increases eight times the probability of vulnerability detection. The presence of a security checklist does not significantly improve the outcome further, even when the checklist is tailored to the change under review and the existing vulnerabilities in the change. These results provide evidence supporting the mental attitude hypothesis and call for further work on security checklists' effectiveness and design.
+
+[Download the paper](https://arxiv.org/pdf/2202.04586.pdf)
 
 
-Recommended citation: G&uuml;l &Ccedil;alikli, Ay&#x015F;e Bener. (2013). &quot;Influence of Confirmation Biases of Developers on Software Quality: an Empirical Study. &quot; <i>Software Quality Journal</i>. 21(2): 377-416 (2013).
+Recommended citation: Larissa Braz, Christian Aeberhard, G&uuml;l &Ccedil;alikli, Alberto Bacchelli. (2013). &quot;Less is more: supporting developers in vulnerability detection during code review. &quot; <i>roceedings of the 44th International Conference on Software Engineering(ICSE 2022)</i>. 1317–1329 (2022).
 
