@@ -15,7 +15,7 @@ News
 ======
 <ul>
 
-<li>(29.09.2022) Our paper "<a href="https://arxiv.org/pdf/2208.04259.pdf"> First Come First Served: The Impact of File Position on Code Review" with Enrico Fregnan, Larissa Braz, Marco D'Ambros and Alberto Bacchelli received an <b> ACM SIGSOFT Distinguished Artifact Award </b> at <b> ESEC/FSE'22 </b>.</li>  
+<li>(29.09.2022) Our paper "<a href="https://arxiv.org/pdf/2208.04259.pdf"> First Come First Served: The Impact of File Position on Code Review</a>" with Enrico Fregnan, Larissa Braz, Marco D'Ambros and Alberto Bacchelli received an <b> ACM SIGSOFT Distinguished Artifact Award </b> at <b> ESEC/FSE'22 </b>.</li>  
            
 <li>(14.06.2022) Our paper "First Come First Served: The Impact of File Position on Code Review" with Enrico Fregnan, Larissa Braz, Marco D'Ambros and Alberto Bacchelli has been accepted at <b> ESEC/FSE'22 </b> (Main Technical Track).</li>
   
