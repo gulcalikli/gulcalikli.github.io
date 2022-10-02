@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-07-08-paper-title-number-5
 excerpt: 'In this paper, we explore the robustness of current code review settings in the presence of the availability bias of developers.'
 date: 2020-07-08
-venue: 'Proceedings of the 42nd International Conference on Software Engineering (ICSE)'
+venue: 'Proceedings of the 42nd International Conference on Software Engineering (ICSE)(<b> ACM SIGSOFT Distinguished Artifact Award </b>)'
 paperurl: ''
 citation: 'Davide Spadini, G&uuml;l &Ccedil;alikli, Alberto Bacchelli. (2020). &quot;Primers or Reminders? The Effects of Existing Code Review Comments on Code Review.&quot; <i>Proceedings of the 42nd International Conference on Software Engineering (ICSE)</i>. 1171-1182.'
 ---
