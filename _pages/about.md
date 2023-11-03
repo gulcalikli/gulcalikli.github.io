@@ -15,8 +15,18 @@ News
 ======
 <ul>
 
+<li>(31.01.2023) I will serve at the ICSME'23 Program Committee (Research Papers Track).</li> 
+
+<li>(21.11.2022) I will serve at the ASE'23 Program Committee (Main Research Track).</li>
+
+<li>(01.11.2022) I will serve at the ICPC'23 Program Committee (Main Research Track).</li>  
+
+<li>(19.10.2023) I will serve at the MSR'23 Program Committee (Technical Papers Track).</li>  
+
+<li>(06.10.2022) Our paper "<a href="https://eprints.gla.ac.uk/281901/1/281901.pdf"> Competencies for Code Review</a>" with Pavl&iacute;na Wurzel Gon&ccedil;alves, Elexander Serebrenik and Alberto Bacchelli has been accepted at CSCW'23.</li>  
+  
 <li>(29.09.2022) Our paper "<a href="https://arxiv.org/pdf/2208.04259.pdf"> First Come First Served: The Impact of File Position on Code Review</a>" with Enrico Fregnan, Larissa Braz, Marco D'Ambros and Alberto Bacchelli received an <b> ACM SIGSOFT Distinguished Paper Award </b> at <b> ESEC/FSE'22 </b>.</li>  
-           
+
 <li>(14.06.2022) Our paper "First Come First Served: The Impact of File Position on Code Review" with Enrico Fregnan, Larissa Braz, Marco D'Ambros and Alberto Bacchelli has been accepted at <b> ESEC/FSE'22 </b> (Main Technical Track).</li>
   
 <li>(16.05.2022) I am honored to receive a Distinguished Reviewer Award at ICPC'22. It was a pleasure for me to serve the ICPC community as an ICPC'22 PC member</li>
