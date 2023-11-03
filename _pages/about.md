@@ -15,7 +15,11 @@ News
 ======
 <ul>
 
+<li>(17.07.2023) I gave an invited talk at the Edinburgh Napier University.</li> 
+
 <li>(31.01.2023) I will serve at the ICSME'23 Program Committee (Research Papers Track).</li> 
+
+<li>(13.12.2022) I will serve at the ICSE'24 Program Committee (Demonstrations Track).</li>
 
 <li>(21.11.2022) I will serve at the ASE'23 Program Committee (Main Research Track).</li>
 
