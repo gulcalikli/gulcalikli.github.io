@@ -1,4 +1,4 @@
-![image](https://github.com/gulcalikli/gulcalikli.github.io/assets/6804544/c3d4d4c7-3f58-4f83-9ce5-f51ddafe24bc)---
+---
 permalink: /
 title: "About "
 excerpt: "Aboumet me"
