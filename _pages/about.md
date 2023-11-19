@@ -17,7 +17,7 @@ News
 
 <li><b>November 2023:</b> I will serve at the Program Committees of ICSE'25 (Main Research Track) and ESEC/FSE'24 (Demonstrations Track).</li>
   
-<li><b>October 2023:</b>  I am honored to receive a Distinguished Reviewer Award at ICSME'23. It was a pleasure for me to serve the ICSME community as an ICSME'23 PC member</li> 
+<li><b>October 2023:</b>  I am honored to receive a Distinguished Reviewer Award at ICSME'23. It was a pleasure for me to serve the ICSME community as an ICSME'23 PC member.</li> 
 
 <li><b>July 2023:</b>  I have been invited to serve as the Program co-Chair of ICPC 2024 ERA Track.</li> 
 
@@ -27,7 +27,7 @@ News
 
 <li><b>December 2022:</b> I will serve at the ICSE'24 Program Committee (Demonstrations Track).</li>
 
-<li><b>November 2022:</b> I will serve at the  ICPC'23 and ASE'23 Program Committees(Main Research Track).</li>  
+<li><b>November 2022:</b> I will serve at the  ICPC'23 and ASE'23 Program Committees (Main Research Track).</li>  
 
 <li><b>October 2022:</b> I will serve at the MSR'23 Program Committee (Technical Papers Track).</li>  
 
