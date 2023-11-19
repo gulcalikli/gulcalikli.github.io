@@ -1,4 +1,4 @@
----
+![image](https://github.com/gulcalikli/gulcalikli.github.io/assets/6804544/c3d4d4c7-3f58-4f83-9ce5-f51ddafe24bc)---
 permalink: /
 title: "About "
 excerpt: "Aboumet me"
@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 {% include base_path %}
-I am a Lecturer (Assistant Professor) in Software Engineering at the <a href="https://www.gla.ac.uk/schools/computing/">School of Computing Science</a>, <a href="https://www.gla.ac.uk">University of Glasgow</a>, United Kingdom. I obtained my Ph.D. and M.Sc. degrees in <a href="https://www.cmpe.boun.edu.tr/">Computer Engineering</a> and B.Sc. degree in <a href="http://www.me.boun.edu.tr/">Mechanical Engineering</a> from  <a href="http://www.boun.edu.tr/en_US">Bo&#287;azi&ccedil;i University</a>, Istanbul. After my Ph.D., I worked as a postdoc fellow at <a href="http://www.open.ac.uk/">The Open University</a>, United Kingdom, and <a href="https://www.ryerson.ca/">Ryerson University</a>, Canada, and later as a lecturer (bitr&auml;dande universitetslektor) at <a href="https://www.chalmers.se/en/Pages/default.aspx">Chalmers</a> &#124; <a href="https://www.gu.se/en">University of Gothenburg</a>, Sweden. Before joining School of Computing at the University of Glasgow, I was a senior researcher at the <a href="https://www.ifi.uzh.ch/en.html">Department of Informatics</a>, <a href="https://www.uzh.ch/en.html">University of Zurich</a> (UZH), Switzerland. 
+I am a Lecturer (Assistant Professor) in Software Engineering at the <a href="https://www.gla.ac.uk/schools/computing/">School of Computing Science</a>, <a href="https://www.gla.ac.uk">University of Glasgow</a>, United Kingdom. I obtained my Ph.D. degree in <a href="https://www.cmpe.boun.edu.tr/">Computer Engineering</a> from  <a href="http://www.boun.edu.tr/en_US">Bo&#287;azi&ccedil;i University</a>, Istanbul, Turkey. Before joining School of Computing at the University of Glasgow, I was a senior researcher at the <a href="https://www.ifi.uzh.ch/en.html">Department of Informatics</a>, <a href="https://www.uzh.ch/en.html">University of Zurich</a> (UZH), Switzerland. Further details about my professional appointments can be found in my a href="https://gulcalikli.github.io/files/CV_Gul_Calikli.pdf">CV</a>. 
 
+My research field is empirical software engineering with a focus on human aspects. My research is at the intersection of <b>software engineering</b> and <b>cognitive psychology</b>, accompanied by Data Analytics, <b>Machine Learning</b> (ML) and social psychology theories. My broader vision is to enhance software practitioners' judgment and decision-making to improve software and development quality through the development of <b>(1)</b> tools and techniques based on cognitive psychology; and <b>(2)</b> ML systems (e.g., LLMs) with human in the loop that can be regarded as a joint cognitive system, extending human-intelligence.
 
 News
 ======
