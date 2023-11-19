@@ -12,6 +12,14 @@ I am a Lecturer (Assistant Professor) in Software Engineering at the <a href="ht
 
 My research field is empirical software engineering with a focus on human aspects. My research is at the intersection of <b>software engineering</b> and <b>cognitive psychology</b>, accompanied by Data Analytics, <b>Machine Learning</b> (ML) and social psychology theories. My broader vision is to enhance software practitioners' judgment and decision-making to improve software and development quality through the development of <b>(1)</b> tools and techniques based on cognitive psychology; and <b>(2)</b> ML systems (e.g., LLMs) with human in the loop that can be regarded as a joint cognitive system, extending human-intelligence.
 
+
+Interested in doing a Ph.D.?
+======
+Are you interested in doing a Ph.D. in Software Engineering at the intersection of one or more of the following fields? <b>(i)</b> Cognitive Psychology; <b>(ii)</b> Machine Learning (e.g., Deep Learning, NLP, LLMs), <b>(iii)</b> Human-Computer Interaction. 
+<p>I am looking for Ph.D. students who are self-motivated with strong programming skills (e.g., Java, Python, C++, C#, etc.) and strong background in statistical analysis and/or Machine Learning (e.g., Deep Learning, Natural Language Processing, Large Language Models). Experience in industrial/open-source software development is desirable. Feel free to contact with your CV, academic transcript and publications (if any) if you are interested. </p>
+<p>You can read more about the Ph.D. Application Process here. You can also read about various Ph.D. Scholarships available at University of Glasgow and the School of Computing Science. Usual <b>application deadline</b> is <b>31st January</b> every year. Email me if you want to know more about the open topics. </p>
+
+
 News
 ======
 <ul>
