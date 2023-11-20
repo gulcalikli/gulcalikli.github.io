@@ -32,7 +32,7 @@ News
 
 <li><b>November 2022:</b> I will serve at the  ICPC'23 and ASE'23 Program Committees (Main Research Track).</li>  
 
-<li><b>October 2022:</b> Our paper "<a href="https://eprints.gla.ac.uk/281901/1/281901.pdf"> Competencies for Code Review</a>" with Pavl&iacute;na Wurzel Gon&ccedil;alves, Elexander Serebrenik and Alberto Bacchelli has been accepted at CSCW'23. I will also serve at the MSR'23 Program Committee (Technical Papers Track).</li>  
+<li><b>October 2022:</b> Our paper "<a href="https://eprints.gla.ac.uk/281901/1/281901.pdf"> Competencies for Code Review</a>" with Pavl&iacute;na Wurzel Gon&ccedil;alves, Alexander Serebrenik and Alberto Bacchelli has been accepted at CSCW'23. I will also serve at the MSR'23 Program Committee (Technical Papers Track).</li>  
   
 <li><b>September 2022:</b> Our paper "<a href="https://arxiv.org/pdf/2208.04259.pdf"> First Come First Served: The Impact of File Position on Code Review</a>" with Enrico Fregnan, Larissa Braz, Marco D'Ambros and Alberto Bacchelli received an <b> ACM SIGSOFT Distinguished Paper Award </b> at <b> ESEC/FSE'22 </b>.</li>  
 
