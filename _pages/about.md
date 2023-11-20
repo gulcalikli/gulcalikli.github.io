@@ -26,7 +26,7 @@ News
   
 <li><b>October 2023:</b>  I am honored to receive a Distinguished Reviewer Award at ICSME'23. It was a pleasure for me to serve the ICSME community as an ICSME'23 PC member.</li> 
 
-<li><b>July 2023:</b>  I have been invited to serve as the Program co-Chair of ICPC 2024 ERA Track. I also gave an invited talk at the Edinburgh Napier University (Title of my talk:"<i></i>A Tale of Two Experiments: Is 'Security' Developers’ Concern during Code Reviews</li</i>") .</li> 
+<li><b>July 2023:</b>  I have been invited to serve as the Program co-Chair of ICPC 2024 ERA Track. I also gave an invited talk at the Edinburgh Napier University (Title of my talk:"<i>A Tale of Two Experiments: Is 'Security' Developers’ Concern during Code Reviews</i>").</li> 
 
 <li><b>January 2023:</b> I will serve at the ICSME'23 Program Committee (Research Papers Track).</li> 
 
