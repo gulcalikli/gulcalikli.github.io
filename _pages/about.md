@@ -32,9 +32,7 @@ News
 
 <li><b>November 2022:</b> I will serve at the  ICPC'23 and ASE'23 Program Committees (Main Research Track).</li>  
 
-<li><b>October 2022:</b> I will serve at the MSR'23 Program Committee (Technical Papers Track).</li>  
-
-<li><b>October 2022:</b> Our paper "<a href="https://eprints.gla.ac.uk/281901/1/281901.pdf"> Competencies for Code Review</a>" with Pavl&iacute;na Wurzel Gon&ccedil;alves, Elexander Serebrenik and Alberto Bacchelli has been accepted at CSCW'23.</li>  
+<li><b>October 2022:</b> Our paper "<a href="https://eprints.gla.ac.uk/281901/1/281901.pdf"> Competencies for Code Review</a>" with Pavl&iacute;na Wurzel Gon&ccedil;alves, Elexander Serebrenik and Alberto Bacchelli has been accepted at CSCW'23. I will also serve at the MSR'23 Program Committee (Technical Papers Track).</li>  
   
 <li><b>September 2022:</b> Our paper "<a href="https://arxiv.org/pdf/2208.04259.pdf"> First Come First Served: The Impact of File Position on Code Review</a>" with Enrico Fregnan, Larissa Braz, Marco D'Ambros and Alberto Bacchelli received an <b> ACM SIGSOFT Distinguished Paper Award </b> at <b> ESEC/FSE'22 </b>.</li>  
 
@@ -44,9 +42,7 @@ News
   
 <li><b>December 2021:</b>) Our paper "<a href="https://arxiv.org/pdf/2202.04586.pdf"> Less is More: Supporting Developers in Vulnerability Detection during Code Review: Mental Attitude and Security Checklists</a>" with Larissa Braz, Christian Aeberhard  and Alberto Bacchelli has been accepted at <b> ICSE'22 </b> (Main Technical Track).</li> 
   
-<li><b>November 2021:</b> Our paper "<a href="https://arxiv.org/pdf/2201.05425.pdf">Interpersonal Conflicts during Code Review: Developers' Experience and Practices</a>" with Pavl&iacute;na Wurzel Gon&ccedil;alves and Alberto Bacchelli has been accepted at CSCW'22.</li> 
-
-<li><b>November 2021:</b> I will serve at the EASE'22 Program Committee (Vision and Emerging Results Track).</li>  
+<li><b>November 2021:</b> Our paper "<a href="https://arxiv.org/pdf/2201.05425.pdf">Interpersonal Conflicts during Code Review: Developers' Experience and Practices</a>" with Pavl&iacute;na Wurzel Gon&ccedil;alves and Alberto Bacchelli has been accepted at CSCW'22. I will serve at the EASE'22 Program Committee (Vision and Emerging Results Track).</li> 
   
 <li><b>October 2021:</b> I will serve at the ICPC'22 Program Committee (Main Research Track).</li>  
 
@@ -58,9 +54,7 @@ News
   
 <li><b>March 2021:</b> I will serve on the ASE'21 Program Committee (Tool Track).</li>
 
-<li><b>December 2020:</b> Our paper "Why don’t Developers Detect Improper Input Validation?‘; DROP TABLE PAPERS;" with Larissa Braz, Enrico Fregnan and Alberto Bacchelli has been accepted at <b> ICSE'21 </b> (Main Technical Track).</li>
-
-<li><b>December 2020:</b> Our paper "How Explicit Feature Traces Did Not Impact Developers’ Memory" with Jacob Kr&uuml;ger, Thorsten Berger and Thomas Leich has been accepted at SANER'21 (RENE Track).</li>
+<li><b>December 2020:</b> Our paper "Why don’t Developers Detect Improper Input Validation?‘; DROP TABLE PAPERS;" with Larissa Braz, Enrico Fregnan and Alberto Bacchelli has been accepted at <b> ICSE'21 </b> (Main Technical Track). In additon, our paper "How Explicit Feature Traces Did Not Impact Developers’ Memory" with Jacob Kr&uuml;ger, Thorsten Berger and Thomas Leich has been accepted at SANER'21 (RENE Track).</li>
 
 <li><b>September 2020:</b> I will serve at CSCW'21 Program Committee serve as an Associate Chair.</li>
 
