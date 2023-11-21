@@ -21,6 +21,6 @@ Ph.D. Supervision
 <ins>Thesis Title:</ins>  "*Software product line engineering and variability management*" <br>
 <ins> main supervisor:</ins> <a href = "https://se.ruhr-uni-bochum.de/thorsten-berger/"> Prof. Thorsten Berger </a>
  
-**Katja Tuma** [2016 - 2021] 
+**Katja Tuma** [2016 - 2021]  <br>
 <ins>Thesis Title:</ins>  "*Efficiency and Automation in Threat Analysis of Software Systems*" <br>
 <ins> main supervisor:</ins> <a href = "https://scandariato.org/"> Prof. Riccardo Scandariato </a>
