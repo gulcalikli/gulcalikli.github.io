@@ -15,7 +15,7 @@ Ph.D. Supervision
   
 **Kelsey Collington** [2021 - ongoing]  
 <ins>Thesis Topic:</ins> "*Enhancing Organisational Resilience in Nuclear Industries*"<br>
-<ins> main supervisor:</ins> <a href = "https://gdebasis.github.io/](https://www.gla.ac.uk/schools/computing/staff/dimitriospezaros/)"> Prof. Dimitrios Pezaros</a> 
+<ins> main supervisor:</ins> <a href = "https://www.gla.ac.uk/schools/computing/staff/dimitriospezaros/"> Prof. Dimitrios Pezaros</a> 
 
 **Wardah Mahmood** [2018 - ongoing]  
 <ins>Thesis Title:</ins>  "*Software product line engineering and variability management*" <br>
