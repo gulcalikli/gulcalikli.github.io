@@ -9,16 +9,18 @@ author_profile: true
 Ph.D. Supervision
 ======
 
-**Susmita Das** [January 2024 - ] 
-Thesis Topic: "*Leveraging LLMs for Software Development/Testing*" <br>
-my role: main supervisor <br>
-co-supervisor: [Dr. Debasis Ganguly] (https://gdebasis.github.io/) 
+**Susmita Das** [*starting in* 2024 - ]   <ins>**my role:**</ins> main supervisor <br>
+<ins>Thesis Topic:</ins> "*Leveraging LLMs for Software Development/Testing*" <br>
+<ins>co-supervisor:</ins> [Dr. Debasis Ganguly] (https://gdebasis.github.io/) 
   
-**Kelsey Collington** [September 2021 - ongoing] Thesis Title: "*Enhancing Organisational Resilience in Nuclear Industries*"
-<p>my role: co-supervisor; main supervisor: [Prof. Dimitrios Pezaros] (https://www.gla.ac.uk/schools/computing/staff/dimitriospezaros/)</p>
+**Kelsey Collington** [2021 - ongoing]   <ins>**my role:**</ins> co-supervisor <br>
+<ins>Thesis Topic:</ins> "*Enhancing Organisational Resilience in Nuclear Industries*"<br>
+<ins> main supervisor:</ins> [Prof. Dimitrios Pezaros] (https://www.gla.ac.uk/schools/computing/staff/dimitriospezaros/)</p>
 
-**Wardah Mahmood** [September 2018 - ongoing] Thesis Title: "*Software product line engineering and variability management*"
-<p>my role: co-supervisor; main supervisor: [Prof. Thorsten Berger] (https://se.ruhr-uni-bochum.de/thorsten-berger/)</p>
+**Wardah Mahmood** [2018 - ongoing]   <ins>**my role:**</ins> co-supervisor <br>
+<ins>Thesis Title:</ins>  "*Software product line engineering and variability management*"
+<ins> main supervisor:</ins> [Prof. Thorsten Berger] (https://se.ruhr-uni-bochum.de/thorsten-berger/)</p>
  
-**Katja Tuma** [November 2016 - January 2021] Thesis Title: "*Efficiency and Automation in Threat Analysis of Software Systems*"
-<p>my role: co-supervisor; main supervisor: [Prof. Riccardo Scandariato] (https://scandariato.org/)</p>
+**Katja Tuma** [2016 - 2021] <ins>**my role:**</ins> co-supervisor <br>
+<ins>Thesis Title:</ins>  "*Efficiency and Automation in Threat Analysis of Software Systems*"
+<ins> main supervisor:</ins> [Prof. Riccardo Scandariato] (https://scandariato.org/)</p>
