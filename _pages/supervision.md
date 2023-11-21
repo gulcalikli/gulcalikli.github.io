@@ -9,8 +9,10 @@ author_profile: true
 Ph.D. Supervision
 ======
 
-**Susmita Das** [January 2024 - ] Thesis Topic: "*Leveraging LLMs for Software Development/Testing*"
-<p>my role: main supervisor; co-supervisor: [Dr. Debasis Ganguly] (https://gdebasis.github.io/)</p>
+**Susmita Das** [January 2024 - ] 
+Thesis Topic: "*Leveraging LLMs for Software Development/Testing*" <br>
+my role: main supervisor <br>
+co-supervisor: [Dr. Debasis Ganguly] (https://gdebasis.github.io/) 
   
 **Kelsey Collington** [September 2021 - ongoing] Thesis Title: "*Enhancing Organisational Resilience in Nuclear Industries*"
 <p>my role: co-supervisor; main supervisor: [Prof. Dimitrios Pezaros] (https://www.gla.ac.uk/schools/computing/staff/dimitriospezaros/)</p>
