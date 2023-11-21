@@ -15,12 +15,12 @@ Ph.D. Supervision
   
 **Kelsey Collington** [2021 - ongoing]  
 <ins>Thesis Topic:</ins> "*Enhancing Organisational Resilience in Nuclear Industries*"<br>
-<ins> main supervisor:</ins> [Prof. Dimitrios Pezaros] (https://www.gla.ac.uk/schools/computing/staff/dimitriospezaros/)</p>
+<ins> main supervisor:</ins> <a href = "https://gdebasis.github.io/](https://www.gla.ac.uk/schools/computing/staff/dimitriospezaros/)"> Prof. Dimitrios Pezaros</a> 
 
 **Wardah Mahmood** [2018 - ongoing]  
-<ins>Thesis Title:</ins>  "*Software product line engineering and variability management*"
-<ins> main supervisor:</ins> [Prof. Thorsten Berger] (https://se.ruhr-uni-bochum.de/thorsten-berger/)</p>
+<ins>Thesis Title:</ins>  "*Software product line engineering and variability management*" <br>
+<ins> main supervisor:</ins> <a href = "https://se.ruhr-uni-bochum.de/thorsten-berger/"> Prof. Thorsten Berger </a>
  
 **Katja Tuma** [2016 - 2021] 
-<ins>Thesis Title:</ins>  "*Efficiency and Automation in Threat Analysis of Software Systems*"
-<ins> main supervisor:</ins> [Prof. Riccardo Scandariato] (https://scandariato.org/)</p>
+<ins>Thesis Title:</ins>  "*Efficiency and Automation in Threat Analysis of Software Systems*" <br>
+<ins> main supervisor:</ins> <a href = "https://scandariato.org/"> Prof. Riccardo Scandariato </a>
