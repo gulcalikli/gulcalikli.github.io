@@ -11,7 +11,7 @@ Ph.D. Supervision
 
 **Susmita Das** [*starting in* 2024 - ]   <ins>**my role:**</ins> main supervisor <br>
 <ins>Thesis Topic:</ins> "*Leveraging LLMs for Software Development/Testing*" <br>
-<ins>co-supervisor:</ins> [Dr. Debasis Ganguly] (https://gdebasis.github.io/) 
+<ins>co-supervisor:</ins>  <a href = "https://gdebasis.github.io/"> Dr. Debasis Ganguly </a> 
   
 **Kelsey Collington** [2021 - ongoing]   <ins>**my role:**</ins> co-supervisor <br>
 <ins>Thesis Topic:</ins> "*Enhancing Organisational Resilience in Nuclear Industries*"<br>
