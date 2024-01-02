@@ -1,7 +1,7 @@
 ---
 title: "First Come First Served: The Impact of File Position on Code Review"
 collection: publications
-permalink: /publication/2022-06-14-paper-title-number-1
+permalink: /publication/2022-06-14-paper-title-number-2
 excerpt: 'In this paper, we investigate the order of files to be reviewed on code review performance.'
 date: 2022-06-14
 venue: 'ESEC/FSE 2022 (<b>ACM SIGSOFT Distinguished Paper Award</b>)'
