@@ -1,7 +1,7 @@
 ---
 title: "Less is more: supporting developers in vulnerability detection during code review"
 collection: publications
-permalink: /publication/2021-12-02-paper-title-number-2
+permalink: /publication/2021-12-02-paper-title-number-3
 excerpt: 'In this paper, we investigate whether and how explicitly asking developers to focus on security or using checklists during a code review affects the detection of vulnerabilities.'
 date: 2022-05-02
 venue: 'Proceedings of the 44th International Conference on Software Engineering(ICSE 2022)'
