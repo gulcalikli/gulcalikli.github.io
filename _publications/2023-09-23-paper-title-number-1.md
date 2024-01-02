@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-09-23-paper-title-number-1
 excerpt: 'In this paper, we investigate the skills and competencies developers need to perform good code reviews.'
 date: 2023-09-23
-venue: 'CSCW 2023'
+venue: 'CSCW'
 paperurl: ''
 citation: 'Pavlina Wurzel Gon\c calves, G&uuml;l &Ccedil;alikli, Alexander Serebrenik, Alberto Bacchelli. (2023). &quot;Competencies for Code Review &quot; <i> ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW 2023)</i>.(2023).'
 ---
