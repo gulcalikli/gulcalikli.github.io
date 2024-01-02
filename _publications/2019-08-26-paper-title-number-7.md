@@ -1,7 +1,7 @@
 ---
 title: "Effects of Explicit Feature Traceability on Program Comprehension. "
 collection: publications
-permalink: /publication/2019-08-26-paper-title-number-6
+permalink: /publication/2019-08-26-paper-title-number-7
 excerpt: 'This paper explains the online controlled experiment that is designed and conducted to investigate the effects of explicit feature traceability (e.g., annotations and decompositions) on program comprehension of developers.'
 date: 2019-08-26
 venue: 'Proceedings of the 27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE)'
