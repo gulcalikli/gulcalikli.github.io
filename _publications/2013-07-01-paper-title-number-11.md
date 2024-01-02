@@ -1,7 +1,7 @@
 ---
 title: "Towards a Metric Suite Proposal to Quantify Confirmation Biases of Developers"
 collection: publications
-permalink: /publication/2013-07-01-paper-title-number-10
+permalink: /publication/2013-07-01-paper-title-number-11
 excerpt: 'In this paper, In this research, we propose a metric suite that measures confirmation bias of software practitioners. The metrics suite is designed to be used by practitioners during their daily decision making.'
 date: 2013-07-01
 venue: 'Proceedings of The 7th International Symposium on Empirical Software Engineering and Measurement (ESEM)'
