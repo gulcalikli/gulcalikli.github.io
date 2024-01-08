@@ -9,7 +9,7 @@ author_profile: true
 Ph.D. Supervision
 ======
 
-**Susmita Das** [*starting in* 2024 - ]   
+**Susmita Das** [2024 - ]   
 <ins>Thesis Topic:</ins> "*Leveraging LLMs for Software Development/Testing*" <br>
 <ins>co-supervisor:</ins>  <a href = "https://gdebasis.github.io/"> Dr. Debasis Ganguly </a> 
 
