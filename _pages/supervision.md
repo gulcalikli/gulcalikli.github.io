@@ -9,9 +9,14 @@ author_profile: true
 Ph.D. Supervision
 ======
 
+
 **Susmita Das** [2024 - ]   
-<ins>Thesis Topic:</ins> "*Leveraging LLMs for Software Development/Testing*" <br>
+<ins>Thesis Topic:</ins> "*Leveraging LLMs for Software Code Generation*" <br>
 <ins>co-supervisor:</ins>  <a href = "https://gdebasis.github.io/"> Dr. Debasis Ganguly </a> 
+
+**Isak Bosman** [2024 - ]   
+<ins>Thesis Topic:</ins> "*Leveraging LLMs for Software Development/Testing*" <br>
+<ins> main supervisor:</ins>  <a href = "https://gdebasis.github.io/"> Dr. Debasis Ganguly </a> 
 
 **Satwick Ghanta** [*starting in* 2024 - ]   
 <ins>Thesis Topic:</ins> "*Introducing Sustainability into Software Engineering Teams: Sustainability mindsets, practice and culture*"<br>
