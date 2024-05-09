@@ -14,6 +14,7 @@ I am a Lecturer (Assistant Professor) in Software Engineering at the <a href="ht
 News
 ======
 <ul>
+<li><b>May 2024:</b> Our paper "Virtual Platform: Effective and Seamless Variability Management for Software Systems</a>" with Wardah Mahmood, Daniel Str&uuml;ber, Ralf L&auml;mmel, Muklebai Mukelebai and Thorsten Berger has been accepted to be published at IEEE Transactions on Software Engineering Journal.</li>
 
 <li><b>November 2023:</b> I will serve at the Program Committees of ICSE'25 (Main Research Track) and ESEC/FSE'24 (Demonstrations Track).</li>
   
