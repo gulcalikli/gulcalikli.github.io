@@ -14,6 +14,9 @@ I am a Lecturer (Assistant Professor) in Software Engineering at the <a href="ht
 News
 ======
 <ul>
+
+<li><b>October 2024:</b> I have been invited to serve at the <a href="https://www.ukri.org/councils/epsrc/guidance-for-reviewers/peer-review-college/"> EPSRC Peer Review College </a>.</li>  
+
 <li><b>September 2024:</b> Our paper "A Laboratory Experiment on Using Different Financial-Incentivization Schemes in Software-Engineering Experimentation" with Dmitri Bershadskyy, Jacob Kr&uuml;ger, Jannik Greif, Siegmar Otto, Sarah Zabel and Robert Heyer has been accepted to be published at PeerJ Computer Science Journal.</li>  
 
 <li><b>June 2024:</b> Our paper "Guidelines for Using Financial Incentives in Software Engineering Experimentation" with Jacob Kr&uuml;ger, Dmitri Bershadskyy, Siegmar Otto, Sarah Zabel and Robert Heyer has been accepted to be published at Empirical Software Engineering Journal.</li>
