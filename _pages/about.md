@@ -19,7 +19,7 @@ News
 
 <li><b>September 2024:</b> Our paper "A Laboratory Experiment on Using Different Financial-Incentivization Schemes in Software-Engineering Experimentation" with Dmitri Bershadskyy, Jacob Kr&uuml;ger, Jannik Greif, Siegmar Otto, Sarah Zabel and Robert Heyer has been accepted to be published at PeerJ Computer Science Journal.</li>  
 
-<li><b>June 2024:</b> Our paper "Guidelines for Using Financial Incentives in Software Engineering Experimentation" with Jacob Kr&uuml;ger, Dmitri Bershadskyy, Siegmar Otto, Sarah Zabel and Robert Heyer has been accepted to be published at Empirical Software Engineering Journal.</li>
+<li><b>June 2024:</b> Our paper ""<a href="https://link.springer.com/article/10.1007/s10664-024-10517-w"> Guidelines for Using Financial Incentives in Software Engineering Experimentation</a>" with Jacob Kr&uuml;ger, Dmitri Bershadskyy, Siegmar Otto, Sarah Zabel and Robert Heyer has been accepted to be published at Empirical Software Engineering Journal.</li>
   
 <li><b>May 2024:</b> Our paper "<a href="https://eprints.gla.ac.uk/325895/2/325895.pdf"> Virtual Platform: Effective and Seamless Variability Management for Software Systems</a>" with Wardah Mahmood, Daniel Str&uuml;ber, Ralf L&auml;mmel, Muklebai Mukelebai and Thorsten Berger has been accepted to be published at IEEE Transactions on Software Engineering Journal.</li>
 
