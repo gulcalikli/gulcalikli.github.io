@@ -15,9 +15,9 @@ News
 ======
 <ul>
 
+<li><b>December 2024:</b> Our paper "<a href="https://arxiv.org/pdf/2202.10985"> A Laboratory Experiment on Using Different Financial-Incentivization Schemes in Software-Engineering Experimentation</a>" with Dmitri Bershadskyy, Jacob Kr&uuml;ger, Jannik Greif, Siegmar Otto, Sarah Zabel and Robert Heyer has been accepted to be published at PeerJ Computer Science Journal.</li>  
+  
 <li><b>October 2024:</b> I have been invited to serve at the <a href="https://www.ukri.org/councils/epsrc/guidance-for-reviewers/peer-review-college/"> EPSRC Peer Review College </a>.</li>  
-
-<li><b>September 2024:</b> Our paper "<a href="https://arxiv.org/pdf/2202.10985"> A Laboratory Experiment on Using Different Financial-Incentivization Schemes in Software-Engineering Experimentation</a>" with Dmitri Bershadskyy, Jacob Kr&uuml;ger, Jannik Greif, Siegmar Otto, Sarah Zabel and Robert Heyer has been accepted to be published at PeerJ Computer Science Journal.</li>  
 
 <li><b>June 2024:</b> Our paper "<a href="https://link.springer.com/article/10.1007/s10664-024-10517-w"> Guidelines for Using Financial Incentives in Software Engineering Experimentation</a>" with Jacob Kr&uuml;ger, Dmitri Bershadskyy, Siegmar Otto, Sarah Zabel and Robert Heyer has been accepted to be published at Empirical Software Engineering Journal.</li>
   
