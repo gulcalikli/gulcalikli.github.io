@@ -10,9 +10,10 @@ Ph.D. Supervision
 ======
 
 
-**Susmita Das** [2024 - ]   
-<ins>Thesis Topic:</ins> "*Leveraging LLMs for Code Generation*" <br>
-<ins>co-supervisor:</ins>  <a href = "https://gdebasis.github.io/"> Dr. Debasis Ganguly </a> 
+**Yasmine Elfaress** [starting on January 2025]   
+<ins>Thesis Topic:</ins> "*Using Eye Tracking to Improve Software Developers' (Human-Human
+& Human-AI) Pair Programming Experiences*" <br>
+<ins>co-supervisor:</ins>  <a href = "http://www.mkhamis.com/"> Dr. Mohamed Khamis </a> 
 
 **Isak Bosman** [2024 - ]   
 <ins>Thesis Topic:</ins> "*Leveraging LLMs for Software Development/Testing*" <br>
