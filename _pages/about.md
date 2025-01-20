@@ -15,7 +15,8 @@ News
 ======
 <ul>
 
-<li><b>January 2025:</b> Our paper "Impact of Request Formats on Effort Estimation: Are LLMs Different than Humans?</a>" with Mohamed Alhamed has been accepted at <b>FSE 2025</b> (The ACM International Conference on the Foundations of Software Engineering). </li>  
+<li><b>January 2025:</b> Our paper "Impact of Request Formats on Effort Estimation: Are LLMs Different than Humans?" with Mohamed Alhamed (Applied Behaviour System LTD., Hexis) has been accepted at <b>FSE 2025</b> (The ACM International Conference on the Foundations of Software Engineering). </li>  
+
 <li><b>December 2024:</b> I have been invited to serve at the Programme Committee of "<a href="https://conf.researchr.org/home/icse-2026"> ICSE 2026 </a> (Research Track)"</li>  
 
 <li><b>December 2024:</b> Our paper "<a href="https://arxiv.org/pdf/2202.10985"> A Laboratory Experiment on Using Different Financial-Incentivization Schemes in Software-Engineering Experimentation</a>" with Dmitri Bershadskyy, Jacob Kr&uuml;ger, Jannik Greif, Siegmar Otto, Sarah Zabel and Robert Heyer has been accepted to be published at PeerJ Computer Science Journal.</li>  
