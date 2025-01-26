@@ -1,8 +1,8 @@
 ---
-title: "Professional Software Development and Team Project (COMPSCI5059, 2021-2025, approx. 300 Students)"
+title: "Professional Software Development and Team Project (COMPSCI4015, 2021-2025, approx. 300 Students)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/22021-2025-PSD-course
+permalink: /teaching/2021-2025-PSD-course
 venue: "University of Glasgow, School of Computing Science"
 location: "Glasgow, Scotland, United Kingdom"
 ---
