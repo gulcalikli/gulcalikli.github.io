@@ -2,7 +2,7 @@
 title: "Software Engineering (IT)" (COMPSCI5059, 2022-2025, approx. 300 Students)"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2020-spring-teaching-1
+permalink: /teaching/2022-2025-SEIT-course
 venue: "University of Gothenburg, Dept. of Computer Science and Engineering (Masters in Information Technology Program)"
 location: "Glasgow, Scotland, United Kingdom"
 ---
