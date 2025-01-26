@@ -4,6 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-2025-PSD-course
 venue: "University of Glasgow, School of Computing Science"
+date: 2025-01-01
 location: "Glasgow, Scotland, United Kingdom"
 ---
 The course, which is also taught throughout both semesters of an academic year (Fall and Spring semesters), introduces the students to modern software development methods and techniques for building and maintaining large systems. 
