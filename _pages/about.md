@@ -15,17 +15,17 @@ News
 ======
 <ul>
 
-<li><b>August 2025:</b> I have been invited to serve at the Programme Committee of "<a href= "https://conf.researchr.org/track/icpc-2026/icpc-2026-research"> ICPC 2026 </a> (Research Track)" </li> 
+<li><b>August 2025:</b> I have been invited to serve at the Programme Committee of "<a href= "https://conf.researchr.org/track/icpc-2026/icpc-2026-research">ICPC 2026 </a> (Research Track)" </li> 
 
 <li><b>July 2025:</b> Our paper "Perspectives, Needs and Challenges for Sustainable Software Engineering Teams: A FinServ Case Study" with Satwik Ghanta and Peggy Gregory has been accepted at <b>ESEM 2025</b> (The ACM/IEEE International Symposium on Empirical Software Engineering and Measurement). </li>  
 
-<li><b>June 2025:</b> I have been invited to serve at the Programme Committee of "<a href= "https://conf.researchr.org/track/fse-2026/fse-2026-research-papers"> FSE 2026 </a> (Research Papers Track)" </li>  
+<li><b>June 2025:</b> I have been invited to serve at the Programme Committee of "<a href= "https://conf.researchr.org/track/fse-2026/fse-2026-research-papers">FSE 2026 </a> (Research Papers Track)" </li>  
 
-<li><b>May 2025:</b> I have been invited to serve at the Programme Committee of "<a href="https://2026.msrconf.org/track/msr-2026-technical-papers"> MSR 2026 </a> (Technical Papers Track)" </li>  
+<li><b>May 2025:</b> I have been invited to serve at the Programme Committee of "<a href="https://2026.msrconf.org/track/msr-2026-technical-papers">MSR 2026 </a> (Technical Papers Track)" </li>  
 
 <li><b>January 2025:</b> Our paper "<a href="https://dl.acm.org/doi/10.1145/3715771">Impact of Request Formats on Effort Estimation: Are LLMs Different than Humans?</a>" with Mohamed Alhamed (Applied Behaviour System LTD., Hexis) has been accepted at <b>FSE 2025</b> (The ACM International Conference on the Foundations of Software Engineering). </li>  
 
-<li><b>December 2024:</b> I have been invited to serve at the Programme Committee of "<a href="https://conf.researchr.org/home/icse-2026"> ICSE 2026 </a> (Research Track)"</li>  
+<li><b>December 2024:</b> I have been invited to serve at the Programme Committee of "<a href="https://conf.researchr.org/home/icse-2026">ICSE 2026 </a> (Research Track)"</li>  
 
 <li><b>December 2024:</b> Our paper "<a href="https://arxiv.org/pdf/2202.10985"> A Laboratory Experiment on Using Different Financial-Incentivization Schemes in Software-Engineering Experimentation</a>" with Dmitri Bershadskyy, Jacob Kr&uuml;ger, Jannik Greif, Siegmar Otto, Sarah Zabel and Robert Heyer has been accepted to be published at PeerJ Computer Science Journal.</li>  
   
