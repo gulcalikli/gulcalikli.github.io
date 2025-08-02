@@ -15,9 +15,9 @@ News
 ======
 <ul>
 
-<li><b>August 2025:</b> I have been invited to serve at the Programme Committee of "<a href= https://conf.researchr.org/track/icpc-2026/icpc-2026-research"> ICPC 2026 </a> (Research Track)" </li> 
+<li><b>August 2025:</b> I have been invited to serve at the Programme Committee of "<a href= "https://conf.researchr.org/track/icpc-2026/icpc-2026-research"> ICPC 2026 </a> (Research Track)" </li> 
 
-<li><b>June 2025:</b> I have been invited to serve at the Programme Committee of "<a href=https://conf.researchr.org/track/fse-2026/fse-2026-research-papers"> FSE 2026 </a> (Research Papers Track)" </li>  
+<li><b>June 2025:</b> I have been invited to serve at the Programme Committee of "<a href= "https://conf.researchr.org/track/fse-2026/fse-2026-research-papers"> FSE 2026 </a> (Research Papers Track)" </li>  
 
 <li><b>May 2025:</b> I have been invited to serve at the Programme Committee of "<a href="https://2026.msrconf.org/track/msr-2026-technical-papers"> MSR 2026 </a> (Technical Papers Track)" </li>  
 
