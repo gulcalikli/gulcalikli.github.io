@@ -8,11 +8,12 @@ author_profile: true
 
 Ph.D. Supervision
 ======
+**Fatimah Alsaad** [2025 - ]   
+<ins>Thesis Topic:</ins> "*The Impact of Team Dynamics and Cognitive Biases on Software Architecture Design in Agile Teams*" <br>
+<ins>co-supervisor:</ins>  <a href = "https://www.gla.ac.uk/schools/computing/staff/timstorer/"> Dr.Tim Storer </a> 
 
-
-**Yasmine Elfaress** [starting on January 2025]   
-<ins>Thesis Topic:</ins> "*Using Eye Tracking to Improve Software Developers' (Human-Human
-& Human-AI) Pair Programming Experiences*" <br>
+**Yasmine Elfaress** [2025 - ]   
+<ins>Thesis Topic:</ins> "*Using Eye Tracking to Improve Software Developers' Human-AI Pair Programming Experiences*" <br>
 <ins>co-supervisor:</ins>  <a href = "http://www.mkhamis.com/"> Dr. Mohamed Khamis </a> 
 
 **Isak Bosman** [2024 - ]   
