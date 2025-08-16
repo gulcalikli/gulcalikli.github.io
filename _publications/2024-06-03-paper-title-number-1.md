@@ -15,4 +15,4 @@ ABSTRACT: Customization is a general trend in software engineering, demanding sy
 
 [Download research artifacts (data and materials)](https://bitbucket.org/easelab/2023-vponlineappendix/src/master/)
 
-Recommended citation: Wardah Mahmood, G&uuml;l &Ccedil;alikli, Daniel Str\"{u}ber, Ralf L\"{a}mmel, Mukelebai Mukelebai, Thorsten Berger. (2024). &quot;Virtual Platform: Effective and Seamless Variability Management for Software Systems &quot; <i> IEEE Transactions on Software Engineering</i>.(2024).
+Recommended citation: Wardah Mahmood, G&uuml;l &Ccedil;alikli, Daniel Str&uuml;ber, Ralf L&auml;mmel, Mukelebai Mukelebai, Thorsten Berger. (2024). &quot;Virtual Platform: Effective and Seamless Variability Management for Software Systems &quot; <i> IEEE Transactions on Software Engineering</i>.(2024).
