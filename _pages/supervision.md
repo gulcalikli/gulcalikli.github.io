@@ -14,13 +14,13 @@ Ph.D. Supervision
 
 **Yasmine Elfaress** [2025 - ]   
 <ins>Thesis Topic:</ins> "*Using Eye Tracking to Improve Software Developers' Human-AI Pair Programming Experiences*" <br>
-<ins>co-supervisor:</ins>  <a href = "http://www.mkhamis.com/"> Dr. Mohamed Khamis </a> 
+<ins>co-supervisor:</ins>  <a href = "http://www.mkhamis.com/"> Prof. Mohamed Khamis </a> 
 
 **Isak Bosman** [2024 - ]   
 <ins>Thesis Topic:</ins> "*Leveraging LLMs for Software Development/Testing*" <br>
 <ins> main supervisor:</ins>  <a href = "https://gdebasis.github.io/"> Dr. Debasis Ganguly </a> 
 
-**Satwick Ghanta** [2024 - ]   
+**Satwik Ghanta** [2024 - ]   
 <ins>Thesis Topic:</ins> "*Introducing Sustainability into Software Engineering Teams: Sustainability mindsets, practice and culture*"<br>
 <ins> main supervisor:</ins>  <a href = "https://www.gla.ac.uk/schools/computing/staff/peggygregory/"> Dr. Peggy Gregory </a> 
     
