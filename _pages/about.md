@@ -17,7 +17,7 @@ News
 
 <li><b>September 2025:</b> I've have been invited to serve as an Associate Editor for the ACM Transactions on Software Engineering and Methodology (TOSEM). <a href= "https://dl.acm.org/journal/tosem">TOSEM</a> is a premier journal in software engineering </li> 
 
-<li><b>August 2025:</b> I've got promoted to Associate Professor (Senior Lecturer) in software Engineering. I have also been invited to serve at the Programme Committee of "<a href= "https://conf.researchr.org/track/icpc-2026/icpc-2026-research">ICPC 2026 </a> (Research Track)" </li> 
+<li><b>August 2025:</b> I've got promoted to Associate Professor (Senior Lecturer) in Software Engineering. I have also been invited to serve at the Programme Committee of "<a href= "https://conf.researchr.org/track/icpc-2026/icpc-2026-research">ICPC 2026 </a> (Research Track)" </li> 
 
 <li><b>July 2025:</b> Our paper "Perspectives, Needs and Challenges for Sustainable Software Engineering Teams: A FinServ Case Study" with Satwik Ghanta and Peggy Gregory has been accepted at <b>ESEM 2025</b> (The ACM/IEEE International Symposium on Empirical Software Engineering and Measurement). </li>  
 
