@@ -15,6 +15,8 @@ News
 ======
 <ul>
 
+<li><b>January 2026:</b> Our paper "Automated Test Suite Enhancement Using Large Language Models with Few-shot Prompting" with Alex Chudic has been accepted at <b>ICPC 2026</b> (The International Conference on Program Comprehension). The paper was based on ALex's MSci(Level 5 undergraduate) project. Well done Alex!</li>  
+
 <li><b>September 2025:</b> I've have been invited to serve on the Editorial Board as an Associate Editor for the ACM Transactions on Software Engineering and Methodology (TOSEM). <a href= "https://dl.acm.org/journal/tosem">TOSEM</a> is a premier journal in software engineering </li> 
 
 <li><b>August 2025:</b> I've got promoted to Associate Professor (Senior Lecturer) in Software Engineering. I have also been invited to serve at the Programme Committee of "<a href= "https://conf.researchr.org/track/icpc-2026/icpc-2026-research">ICPC 2026 </a> (Research Track)" </li> 
