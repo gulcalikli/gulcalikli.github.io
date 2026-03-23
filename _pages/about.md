@@ -15,7 +15,7 @@ News
 ======
 <ul>
 <li><b>March 2026:</b> Our paper "Practical Feasibility of Sustainable Software Engineering Tools
-  and Techniques" with Satwik Ghanta and Peggy Gregory has been accepted at <b>FSE 2026 Industry Track</b>. This is Satwik's second (Core A ranked) paper as a part of his PhD thesis (jointly supervised with Peggy Gregory). Great work Satwik!</li>  
+  and Techniques" with Satwik Ghanta and Peggy Gregory has been accepted at <b>FSE 2026</b> Industry Track. This is Satwik's second (Core A ranked) paper as a part of his PhD thesis (jointly supervised with Peggy Gregory). Great work Satwik!</li>  
 
 <li><b>February 2026:</b> I have been invited to serve at the Programme Committee of "<a href="https://conf.researchr.org/home/icse-2027">ICSE 2027</a> (Research Track)"</li>  
 
