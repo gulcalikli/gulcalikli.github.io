@@ -14,6 +14,8 @@ I am a Senior Lecturer (Associate Professor) in Software Engineering at the <a h
 News
 ======
 <ul>
+<li><b>March 2026:</b> Our paper "Practical Feasibility of Sustainable Software Engineering Tools
+  and Techniques" with Satwik Ghanta and Peggy Gregory has been accepted at <b>FSE 2026 Industry Track</b>. This is Satwik's second (Core A ranked) paper as a part of his PhD thesis (jointly supervised with Peggy Gregory). Great work Satwik!</li>  
 
 <li><b>January 2026:</b> Our paper "Automated Test Suite Enhancement Using Large Language Models with Few-shot Prompting" with Alex Chudic has been accepted at <b>ICPC 2026</b> (The International Conference on Program Comprehension). The paper was based on Alex's MSci (Level 5 undergraduate) project. Well done Alex!</li>  
 
