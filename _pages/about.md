@@ -17,7 +17,9 @@ News
 <li><b>March 2026:</b> Our paper "Practical Feasibility of Sustainable Software Engineering Tools
   and Techniques" with Satwik Ghanta and Peggy Gregory has been accepted at <b>FSE 2026 Industry Track</b>. This is Satwik's second (Core A ranked) paper as a part of his PhD thesis (jointly supervised with Peggy Gregory). Great work Satwik!</li>  
 
-<li><b>January 2026:</b> Our paper "Automated Test Suite Enhancement Using Large Language Models with Few-shot Prompting" with Alex Chudic has been accepted at <b>ICPC 2026</b> (The International Conference on Program Comprehension). The paper was based on Alex's MSci (Level 5 undergraduate) project. Well done Alex!</li>  
+<li><b>February 2026:</b> I have been invited to serve at the Programme Committee of "<a href="https://conf.researchr.org/home/icse-2027">ICSE 2027</a> (Research Track)"</li>  
+
+<li><b>January 2026:</b> Our paper "<a href="https://arxiv.org/pdf/2602.12256">Automated Test Suite Enhancement Using Large Language Models with Few-shot Prompting</a>" with Alex Chudic has been accepted at <b>ICPC 2026</b> (The International Conference on Program Comprehension). The paper was based on Alex's MSci (Level 5 undergraduate) project. Well done Alex!</li>  
 
 <li><b>September 2025:</b> I've have been invited to serve on the Editorial Board as an Associate Editor for the ACM Transactions on Software Engineering and Methodology (TOSEM). <a href= "https://dl.acm.org/journal/tosem">TOSEM</a> is a premier journal in software engineering </li> 
 
