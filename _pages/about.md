@@ -21,7 +21,7 @@ News
 
 <li><b>January 2026:</b> Our paper "<a href="https://arxiv.org/pdf/2602.12256">Automated Test Suite Enhancement Using Large Language Models with Few-shot Prompting</a>" with Alex Chudic has been accepted at <b>ICPC 2026</b> (The International Conference on Program Comprehension). The paper was based on Alex's MSci (Level 5 undergraduate) project. Well done Alex!</li>  
 
-<li><b>December 2025:</b> I've been invited by The <a href="https://erc.europa.eu/homepage"> European Research Council (ERC)</a> to review proposals submitted to <a href="https://arxiv.org/pdf/2602.12256"> ERC Advanced Grant 2025 Call</a>.</li> 
+<li><b>December 2025:</b> I've been invited by the <a href="https://erc.europa.eu/homepage"> European Research Council (ERC)</a> to review proposals submitted to <a href="https://arxiv.org/pdf/2602.12256"> ERC Advanced Grant 2025 Call</a>.</li> 
 
 <li><b>September 2025:</b> I've have been invited to serve on the Editorial Board as an Associate Editor for the ACM Transactions on Software Engineering and Methodology (TOSEM). <a href= "https://dl.acm.org/journal/tosem">TOSEM</a> is a premier journal in software engineering </li> 
 
