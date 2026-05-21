@@ -15,6 +15,8 @@ News
 ======
 <ul>
 
+<li><b>May 2026:</b> I have been invited to lecture at the "<a href="https://conf.researchr.org/home/fse-2027">TAROT Summer School</a> (Summer School on Software Testing, Verification and Validation)"</li>  
+
 <li><b>May 2026:</b> I have been invited to serve at the Programme Committee of "<a href="https://conf.researchr.org/home/fse-2027">FSE 2027</a> (Research Track)"</li>  
 
 <li><b>April 2026:</b> I have been invited to give a keynote at the "<a href="https://conf.researchr.org/home/ease-2026/learner-2026#Keynote">LEARNER 2026</a> Workhop (4th International Workshop on evaLuation and assEssment in softwARe eNgineers’ Education and tRaining)"</li> 
