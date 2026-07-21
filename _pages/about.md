@@ -15,7 +15,7 @@ News
 ======
 <ul>
 
-<li><b>May 2026:</b> I have been invited to lecture at the "<a href="https://tarot26.github.io/">TAROT Summer School</a> (Summer School on Software Testing, Verification and Validation)"</li>  
+<li><b>May 2026:</b> I have been invited to lecture at the "<a href="https://tarot26.github.io/">TAROT Summer School</a> (Summer School on Software Testing, Verification and Validation)" that will be held in Munich, Germany on July 13-17. In my lecture, I will discuss why context matters for trustworthy AI in software engineering, with a focus on how communicating developers' cognitive state and repository context to GenAI can improve code comprehension and AI-assisted testing, and why careful evaluation remains essential.</li> 
 
 <li><b>May 2026:</b> I have been invited to serve at the Programme Committee of "<a href="https://conf.researchr.org/home/fse-2027">FSE 2027</a> (Research Track)"</li>  
 
