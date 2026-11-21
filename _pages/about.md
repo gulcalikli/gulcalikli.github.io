@@ -15,6 +15,9 @@ News
 ======
 <ul>
 
+<li><b>November 2027:</b> Our paper "<a href="https://arxiv.org/abs/2511.08177">GazeCopilot: Evaluating Novel Gaze-Informed Prompting for AI-Supported
+Code Comprehension and Readability</a>" with Yasmine Elfares and Mohamed Khamis has been accepted at <b>TOSEM Journal</b> This is Yasmine's first (Q1 Journal) leading author paper as a part of her PhD thesis (jointly supervised with Mohamed Khamis). Great work Yasmine!</li>
+
 <li><b>July 2026:</b> I was invited to lecture at the "<a href="https://tarot26.github.io/">TAROT Summer School</a> (Summer School on Software Testing, Verification and Validation)" that was held at the Technical University of Munich (Garching Campus), Germany on July 13-17. In my lecture, I discussed why context matters for <b>trustworthy AI</b> in <b>software engineering</b>, with a focus on how communicating developers' cognitive state and repository context to GenAI can improve code comprehension and AI-assisted testing, and why careful evaluation remains essential.</li> 
 
 <li><b>May 2026:</b> I have been invited to serve at the Programme Committee of "<a href="https://conf.researchr.org/home/fse-2027">FSE 2027</a> (Research Track)"</li>  
